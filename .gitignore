@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Buy or Wait? project
+log.txt
+.env.*
+code/.debug/
+code/.cache/
+code.zip
