@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "image_01",
+    "plan_id": null,
+    "thought": "Read the net pay image since it affects income; skip message_02 which has no financial effect.",
+    "tool": "read_image"
+  },
+  "key": "2e6f410667c74cf05abb2c8df13de7ac13ec513a",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_03",
+    "step": 3
+  }
+}

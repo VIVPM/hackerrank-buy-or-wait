@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The user has a balance of EUR 2231.10 with a minimum balance of EUR 600, so the EUR 166.61 fee appears affordable. Before deciding, I should check what evidence is on file to build an accurate forecast.",
+    "tool": "list_evidence"
+  },
+  "key": "630b915307ec52e5765d23eb850046808a6b058a",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_09",
+    "step": 2
+  }
+}

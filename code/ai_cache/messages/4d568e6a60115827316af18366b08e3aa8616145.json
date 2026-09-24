@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 2717,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": "2025-08-15",
+    "new_date": null,
+    "notes_short": "Employer confirms regular salary of EUR 2717 resumes 2025-08-15; also mentions a new unquantified recurring childcare payment starting same month; payroll ref EMP-0010.",
+    "operation": "confirm",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "4d568e6a60115827316af18366b08e3aa8616145",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 1033,
+    "message_id": "message_10",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 467,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 1,
+    "schema_version": "2"
+  }
+}

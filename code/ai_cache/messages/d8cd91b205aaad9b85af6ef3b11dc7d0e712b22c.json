@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer states recent funds are a reimbursement for prior work expenses, not regular salary; claim closed, no further reimbursement scheduled. Ref EMP-0174.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "d8cd91b205aaad9b85af6ef3b11dc7d0e712b22c",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 718,
+    "message_id": "message_174",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 482,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

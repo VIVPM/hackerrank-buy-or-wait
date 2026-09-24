@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "Only P1 completes by deadline via installments within the user's considered methods; P2 fails the deadline.",
+    "tool": "finish"
+  },
+  "key": "285b9079b8fd1afa14e1f8322b16a9e83c48679b",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_22",
+    "step": 5
+  }
+}

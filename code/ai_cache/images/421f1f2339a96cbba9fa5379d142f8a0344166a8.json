@@ -1,0 +1,36 @@
+{
+  "fact": {
+    "amount_semantics": "grand_total",
+    "confidence": 1.0,
+    "currency": "RS",
+    "document_date": "2025-10-29",
+    "document_type": "tax_invoice",
+    "evidence_note": "Restaurant tax invoice, paid, dated 2025-10-29. Grand Total printed as 'Grand Total (RS) : 8528'.",
+    "other_amounts": [
+      {
+        "label": "subtotal",
+        "value": 8122.0
+      },
+      {
+        "label": "total_earnings",
+        "value": 8528.1
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 8528.0
+  },
+  "key": "421f1f2339a96cbba9fa5379d142f8a0344166a8",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_07",
+    "input_tokens": 887,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 182,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_3231",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

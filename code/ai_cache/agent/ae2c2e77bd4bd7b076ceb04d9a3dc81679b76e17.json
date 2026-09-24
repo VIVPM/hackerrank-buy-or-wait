@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Now list the available evidence.",
+    "tool": "list_evidence"
+  },
+  "key": "ae2c2e77bd4bd7b076ceb04d9a3dc81679b76e17",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_17",
+    "step": 2
+  }
+}

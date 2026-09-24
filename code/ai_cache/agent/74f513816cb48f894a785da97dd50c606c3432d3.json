@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_08",
+    "plan_id": null,
+    "thought": "read salary change",
+    "tool": "read_message"
+  },
+  "key": "74f513816cb48f894a785da97dd50c606c3432d3",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_11",
+    "step": 4
+  }
+}

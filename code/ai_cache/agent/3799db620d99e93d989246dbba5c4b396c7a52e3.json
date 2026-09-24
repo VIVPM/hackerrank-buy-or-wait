@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I have read the salary change evidence. Now I should run the 90-day cash forecast to see how much is safe to pay today and the projected balance.",
+    "tool": "run_forecast"
+  },
+  "key": "3799db620d99e93d989246dbba5c4b396c7a52e3",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_08",
+    "step": 4
+  }
+}

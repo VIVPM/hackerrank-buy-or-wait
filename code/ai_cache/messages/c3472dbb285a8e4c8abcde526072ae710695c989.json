@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Investment sale proceeds settled in cash account; sale order complete, no pending proceeds; amount not stated in message",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "investment"
+  },
+  "key": "c3472dbb285a8e4c8abcde526072ae710695c989",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 691,
+    "message_id": "message_114",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 216,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

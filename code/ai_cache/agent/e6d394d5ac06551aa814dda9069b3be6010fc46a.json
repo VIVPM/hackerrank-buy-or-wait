@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I have the request details. The user has a balance of 3,911.35 with a minimum balance of 1,800, so paying 1,574.40 in full would leave 2,336.95 \u2014 above the minimum, but I should check the evidence on file to see if there are upcoming obligations that affect the forecast.",
+    "tool": "list_evidence"
+  },
+  "key": "e6d394d5ac06551aa814dda9069b3be6010fc46a",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_21",
+    "step": 2
+  }
+}

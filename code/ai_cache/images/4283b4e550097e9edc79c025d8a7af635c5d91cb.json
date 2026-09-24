@@ -1,0 +1,35 @@
+{
+  "fact": {
+    "amount_semantics": "grand_total",
+    "confidence": 1.0,
+    "currency": "INR",
+    "document_type": "tax_invoice",
+    "evidence_note": "The document is a tax invoice showing itemized charges, taxes (CGST, SGST), and a final total of 1995.00 INR. The amount in words confirms this total.",
+    "other_amounts": [
+      {
+        "label": "subtotal",
+        "value": 1900.01
+      },
+      {
+        "label": "total_earnings",
+        "value": 1995.0
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 1995.0
+  },
+  "key": "4283b4e550097e9edc79c025d8a7af635c5d91cb",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_06",
+    "input_tokens": 1607,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 173,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_3051",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

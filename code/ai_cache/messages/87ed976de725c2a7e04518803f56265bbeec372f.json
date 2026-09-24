@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Portfolio displayed market value increased substantially; unrealized, no units sold, no cash proceeds; value continues to move with market prices; account FIN-0207",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "investment"
+  },
+  "key": "87ed976de725c2a7e04518803f56265bbeec372f",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 688,
+    "message_id": "message_207",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 157,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows only EUR 101.97 safe to pay and no full-payment date within 90 days. List candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "6e2d91b1d4a91870634432f5fa6a0ddbbdba6c3a",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_15",
+    "step": 5
+  }
+}

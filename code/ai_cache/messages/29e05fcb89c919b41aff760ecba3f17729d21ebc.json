@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 8880,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "BuyBox refund initiated but not yet credited; expected within ten business days; order MER-0059",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "refund"
+  },
+  "key": "29e05fcb89c919b41aff760ecba3f17729d21ebc",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 683,
+    "message_id": "message_59",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 356,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

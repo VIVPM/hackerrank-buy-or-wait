@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.6,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Dispute BAN-0157 open; duplicate card charge under investigation; reversal not yet posted",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "card_charge"
+  },
+  "key": "0d8c4b313ab8e5c2fe900c9cf35f150e964047a6",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 686,
+    "message_id": "message_157",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 165,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

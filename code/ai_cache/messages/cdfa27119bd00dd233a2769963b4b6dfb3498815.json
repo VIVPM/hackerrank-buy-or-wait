@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer payroll update: regular salary for next payroll confirmed; payslip will show regular salary and a one-time adjustment separately. Ref EMP-0002. No amount or date stated.",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "cdfa27119bd00dd233a2769963b4b6dfb3498815",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 661,
+    "message_id": "message_02",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 207,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

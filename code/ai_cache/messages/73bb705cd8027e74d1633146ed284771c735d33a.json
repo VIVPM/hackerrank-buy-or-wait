@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.55,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "CartLane merchant charge in foreign currency; final home-currency amount pending settlement, not yet confirmed",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "gig_payout"
+  },
+  "key": "73bb705cd8027e74d1633146ed284771c735d33a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 656,
+    "message_id": "message_208",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 127,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

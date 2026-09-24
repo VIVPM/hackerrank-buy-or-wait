@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "First, I need to get the purchase request details and see what evidence is on file.",
+    "tool": "get_request"
+  },
+  "key": "ccebd4724d819e39050c8ca777446952c5227aa7",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_24",
+    "step": 1
+  }
+}

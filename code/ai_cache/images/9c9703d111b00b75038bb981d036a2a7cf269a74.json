@@ -1,0 +1,43 @@
+{
+  "fact": {
+    "amount_semantics": "amount_due_by_date",
+    "confidence": 1.0,
+    "currency": "\u20b9",
+    "document_type": "utility_bill",
+    "evidence_note": "Document is a telecom bill from Airtel for Business, dated 2026-02-06, showing amounts due by and after that date.",
+    "other_amounts": [
+      {
+        "label": "previous_balance",
+        "value": 3543.54
+      },
+      {
+        "label": "total_paid",
+        "value": 3543.54
+      },
+      {
+        "label": "amount_due_after_date",
+        "value": 822.05
+      },
+      {
+        "label": "subtotal",
+        "value": 704.05
+      }
+    ],
+    "payment_status": "unpaid",
+    "relevant_transaction_amount": 704.05
+  },
+  "key": "9c9703d111b00b75038bb981d036a2a7cf269a74",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_05",
+    "input_tokens": 1834,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 213,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_1786",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

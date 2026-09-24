@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "List evidence to find messages/images affecting income, expenses, or pending payments.",
+    "tool": "list_evidence"
+  },
+  "key": "ed08a0cb157acc6611c2d7db01c09ec8c2e5a911",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_21",
+    "step": 2
+  }
+}

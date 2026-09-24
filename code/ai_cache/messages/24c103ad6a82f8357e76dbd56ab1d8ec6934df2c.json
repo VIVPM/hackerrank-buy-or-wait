@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 260000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Greenfield Foods states regular salary for next payroll is INR 260000; payroll ref EMP-0176; no date given",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "24c103ad6a82f8357e76dbd56ab1d8ec6934df2c",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 664,
+    "message_id": "message_176",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 215,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

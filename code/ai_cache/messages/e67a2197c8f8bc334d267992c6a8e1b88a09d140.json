@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 42750000,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "IDR",
+    "effective_date": "2025-08-15",
+    "new_date": null,
+    "notes_short": "Monthly salary at Cobalt Systems increased to IDR 42,750,000 effective 2025-08-15; updated amount visible on next payslip. Ref EMP-0001.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "e67a2197c8f8bc334d267992c6a8e1b88a09d140",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 673,
+    "message_id": "message_01",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 168,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

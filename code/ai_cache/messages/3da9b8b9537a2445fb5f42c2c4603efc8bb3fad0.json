@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 17290000,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "Payroll states monthly salary rises to IDR 17,290,000 effective 2026-07-15; updated amount appears on next payslip, so not yet reflected.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "3da9b8b9537a2445fb5f42c2c4603efc8bb3fad0",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 670,
+    "message_id": "message_33",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 151,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1752.0,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Cedar Health (ref EMP-0062) states next payroll regular salary is USD 1752; same payroll includes a one-time arrears adjustment of USD 788.40 shown separately on payslip. No date given.",
+    "operation": "confirm",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "0e92d2a8ee03e7454252b7331f272f17a1681316",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 662,
+    "message_id": "message_62",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 442,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

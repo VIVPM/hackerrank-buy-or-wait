@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1037.52,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Northstar Labs states temporary reduced monthly pay of EUR 1037.52, currently scheduled for the next payroll cycle; no date given. Payroll ref EMP-0004.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "6ab6fd38ffb221b1109b69415eca5f8e393cf84a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 651,
+    "message_id": "message_04",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 361,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 31464000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Temporary monthly salary at Greenfield Foods changed to IDR 31,464,000; lower amount applies to next payroll period. Ref payroll EMP-0036.",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "29adb5406da3e1fe5126eca325f63164d93f9996",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 679,
+    "message_id": "message_36",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 278,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

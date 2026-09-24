@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "List available evidence before running the forecast.",
+    "tool": "list_evidence"
+  },
+  "key": "1ee03e632d62fac3bc6c3cf4a729bd426c4d63c2",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_05",
+    "step": 2
+  }
+}

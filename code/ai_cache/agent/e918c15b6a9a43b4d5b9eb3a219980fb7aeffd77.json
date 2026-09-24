@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No messages or images exist to read, so the forecast is complete. The forecast shows nothing is safe to pay today and the lowest projected balance falls below the minimum to keep. Now I'll list the candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "e918c15b6a9a43b4d5b9eb3a219980fb7aeffd77",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_05",
+    "step": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 2988,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "Employer payroll states monthly salary increased to USD 2988 effective 2026-07-15; revised amount on next payslip; ref EMP-0026",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "69ff03b053b9bd01356e627f83bb44875c00cde7",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 650,
+    "message_id": "message_26",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 144,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

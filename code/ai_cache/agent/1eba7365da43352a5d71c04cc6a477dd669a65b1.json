@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Run the 90-day cash forecast on the evidence read so far to determine the safe amount to pay today.",
+    "tool": "run_forecast"
+  },
+  "key": "1eba7365da43352a5d71c04cc6a477dd669a65b1",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_10",
+    "step": 4
+  }
+}

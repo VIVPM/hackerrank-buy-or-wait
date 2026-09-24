@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1804.0,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": "2025-08-15",
+    "new_date": null,
+    "notes_short": "Employer confirms salary of EUR 1804 for 2025-08-15; home-currency amount depends on settlement-date conversion. Payroll ref EMP-0074.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "dcf34cf2f896371c10d697c66f5be5b41400e41b",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 665,
+    "message_id": "message_74",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 172,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

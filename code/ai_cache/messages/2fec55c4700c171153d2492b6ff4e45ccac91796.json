@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employment at HarborWorks has ended; no recurring salary payments scheduled after final settlement. Final settlement details to be sent separately; no amount or date given. Ref EMP-0084.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "2fec55c4700c171153d2492b6ff4e45ccac91796",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 670,
+    "message_id": "message_84",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 186,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

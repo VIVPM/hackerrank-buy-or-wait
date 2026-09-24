@@ -1,0 +1,51 @@
+{
+  "fact": {
+    "amount_semantics": "grand_total",
+    "confidence": 1.0,
+    "currency": "Rs.",
+    "document_type": "retail_receipt",
+    "evidence_note": "Handwritten item amounts and total sum to Rs. 4543.00; printed text confirms 'TOTAL' with that figure.",
+    "other_amounts": [
+      {
+        "label": "item_total",
+        "value": 1500.0
+      },
+      {
+        "label": "item_total",
+        "value": 724.0
+      },
+      {
+        "label": "item_total",
+        "value": 796.0
+      },
+      {
+        "label": "item_total",
+        "value": 550.0
+      },
+      {
+        "label": "item_total",
+        "value": 303.0
+      },
+      {
+        "label": "item_total",
+        "value": 670.0
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 4543.0
+  },
+  "key": "624c2c432abff1702902f2bd1f0919e9f2cf37c5",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_14",
+    "input_tokens": 729,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 219,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_9421",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

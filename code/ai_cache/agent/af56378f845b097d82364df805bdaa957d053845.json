@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "image_03",
+    "plan_id": null,
+    "thought": "Read the estimate image to confirm the amount.",
+    "tool": "read_image"
+  },
+  "key": "af56378f845b097d82364df805bdaa957d053845",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_17",
+    "step": 3
+  }
+}

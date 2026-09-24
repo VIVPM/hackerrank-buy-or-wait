@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows the user cannot safely pay the full 274,600 today (only 244,142.09 is safe), but full payment is possible by 2026-04-15, well before the 2026-05-04 deadline. Since the user only considers installments (max 3 months), I will list the candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "d9b0767fb5cbb94a502fc938e6eab77c9dff1cdc",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_17",
+    "step": 5
+  }
+}

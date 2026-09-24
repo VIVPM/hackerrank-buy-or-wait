@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_14",
+    "plan_id": null,
+    "thought": "Read the refund message first to understand incoming funds.",
+    "tool": "read_message"
+  },
+  "key": "3e40ebd87555b429d2ad3ce3b3702ed1867d7777",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_20",
+    "step": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Start by fetching the purchase request and user profile to understand constraints before reading evidence.",
+    "tool": "get_request"
+  },
+  "key": "fa483d2de2d6a99e20ae364bbb818be01de222a2",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_03",
+    "step": 1
+  }
+}

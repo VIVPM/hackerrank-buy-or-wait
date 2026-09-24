@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "The evidence-backed estimate is only INR 41,272, but the forecast shows the user can safely pay up to INR 244,142 today. P1 (3 installments) completes before the deadline with no spending cuts needed; P2 is the do-nothing plan.",
+    "tool": "finish"
+  },
+  "key": "7f3c39d845c11cf847ba2542fd6abccfeb1c4344",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_17",
+    "step": 6
+  }
+}

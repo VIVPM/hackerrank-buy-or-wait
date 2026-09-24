@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "The forecast shows only INR 10,141 is safe to pay today, no full-payment date within 90 days, and the only validated plan is P1 (not recommended, does not complete by deadline). Booking the trip now is not affordable; the user should wait for more money to come in.",
+    "tool": "finish"
+  },
+  "key": "73aba70c741d29d3e92ebef39dd9567985df3dab",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_20",
+    "step": 7
+  }
+}

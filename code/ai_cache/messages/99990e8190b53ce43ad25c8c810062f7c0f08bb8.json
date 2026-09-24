@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.7,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Prize proceeds credited after withholding; claim closed, no further scheduled payments; amount not stated in message",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "prize"
+  },
+  "key": "99990e8190b53ce43ad25c8c810062f7c0f08bb8",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 686,
+    "message_id": "message_17",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 354,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

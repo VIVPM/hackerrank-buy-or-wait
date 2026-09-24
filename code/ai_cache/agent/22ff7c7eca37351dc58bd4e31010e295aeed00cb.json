@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "Only the not_recommended plan exists; the full investment cannot be paid by the deadline without exceeding safe funds.",
+    "tool": "finish"
+  },
+  "key": "22ff7c7eca37351dc58bd4e31010e295aeed00cb",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_24",
+    "step": 5
+  }
+}

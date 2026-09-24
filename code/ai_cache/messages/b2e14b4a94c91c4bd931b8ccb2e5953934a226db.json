@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 35860.0,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "ZAR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Greenfield Foods confirms base salary of ZAR 35860 (payroll ref EMP-0078). Commission on open deals is pending approval and excluded from payout until marked as earned.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "b2e14b4a94c91c4bd931b8ccb2e5953934a226db",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 655,
+    "message_id": "message_78",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 165,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

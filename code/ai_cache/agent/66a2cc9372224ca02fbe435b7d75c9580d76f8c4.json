@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Run the 90-day cash forecast with the evidence read so far.",
+    "tool": "run_forecast"
+  },
+  "key": "66a2cc9372224ca02fbe435b7d75c9580d76f8c4",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_10",
+    "step": 4
+  }
+}

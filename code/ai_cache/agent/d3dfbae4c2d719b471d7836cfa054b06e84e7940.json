@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Run the 90-day forecast with the evidence read so far.",
+    "tool": "run_forecast"
+  },
+  "key": "d3dfbae4c2d719b471d7836cfa054b06e84e7940",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_17",
+    "step": 4
+  }
+}

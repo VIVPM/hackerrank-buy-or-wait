@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Seasonal contract at Riverline Retail has ended; no off-season income or renewal confirmed; future shift block or contract would be communicated separately. Payroll ref EMP-0021.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "7ae3814e205bdef45454479d561950db1eca6554",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 649,
+    "message_id": "message_21",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 219,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

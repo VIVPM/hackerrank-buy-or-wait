@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I need to start by getting the request details and user profile before I can evaluate any evidence or plans.",
+    "tool": "get_request"
+  },
+  "key": "c19c03daa26123b903fd59b7463a84ac8cb57fe6",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_24",
+    "step": 1
+  }
+}

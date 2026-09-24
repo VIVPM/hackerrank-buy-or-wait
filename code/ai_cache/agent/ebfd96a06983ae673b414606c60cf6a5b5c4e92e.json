@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "image_05",
+    "plan_id": null,
+    "thought": "Read the amount-due-by-date image to see the payment schedule figures.",
+    "tool": "read_image"
+  },
+  "key": "ebfd96a06983ae673b414606c60cf6a5b5c4e92e",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_20",
+    "step": 4
+  }
+}

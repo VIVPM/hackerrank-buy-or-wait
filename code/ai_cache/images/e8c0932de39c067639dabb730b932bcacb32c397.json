@@ -1,0 +1,39 @@
+{
+  "fact": {
+    "amount_semantics": "grand_total",
+    "confidence": 1.0,
+    "currency": "INR",
+    "document_type": "ev_charging_invoice",
+    "evidence_note": "Amount in words confirms 'Rupees' and matches the grand total of 393.22.",
+    "other_amounts": [
+      {
+        "label": "amount_due_by_date",
+        "value": 393.22
+      },
+      {
+        "label": "subtotal",
+        "value": 333.24
+      },
+      {
+        "label": "cash_tendered",
+        "value": 393.22
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 393.22
+  },
+  "key": "e8c0932de39c067639dabb730b932bcacb32c397",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_16",
+    "input_tokens": 1895,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 179,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_10521",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

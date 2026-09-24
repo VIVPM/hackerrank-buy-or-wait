@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employment with Cedar Health has ended; no regular salary payments scheduled after final settlement; final settlement details to be sent separately; payroll ref EMP-0192",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "08dd379f9279a0f22acd3adbb8fd4e3d7b1b61b3",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 645,
+    "message_id": "message_192",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 194,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

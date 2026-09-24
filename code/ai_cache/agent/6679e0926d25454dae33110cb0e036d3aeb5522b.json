@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Start by fetching the request details.",
+    "tool": "get_request"
+  },
+  "key": "6679e0926d25454dae33110cb0e036d3aeb5522b",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_20",
+    "step": 1
+  }
+}

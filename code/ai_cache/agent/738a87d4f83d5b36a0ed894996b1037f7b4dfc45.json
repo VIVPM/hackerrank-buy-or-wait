@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "The forecast shows only 15,399.57 INR is safe to pay today against the 109,600 INR investment request, with no full-payment date within the 90-day horizon and the lowest projected balance (66,399.57 INR) staying above the 51,000 INR minimum only if the investment is not made. The only evidence on a ",
+    "tool": "finish"
+  },
+  "key": "738a87d4f83d5b36a0ed894996b1037f7b4dfc45",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_24",
+    "step": 6
+  }
+}

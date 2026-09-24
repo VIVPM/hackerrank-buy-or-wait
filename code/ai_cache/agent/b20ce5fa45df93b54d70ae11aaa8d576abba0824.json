@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The only evidence item is no_financial_effect, so nothing to read. Proceed to list plans.",
+    "tool": "list_plans"
+  },
+  "key": "b20ce5fa45df93b54d70ae11aaa8d576abba0824",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_22",
+    "step": 3
+  }
+}

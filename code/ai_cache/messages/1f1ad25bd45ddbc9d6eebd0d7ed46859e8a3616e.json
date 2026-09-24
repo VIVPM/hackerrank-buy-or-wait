@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Seasonal contract at HarborWorks has ended; no off-season income or renewal confirmed yet. Ref payroll EMP-0103.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "1f1ad25bd45ddbc9d6eebd0d7ed46859e8a3616e",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 678,
+    "message_id": "message_103",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 222,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

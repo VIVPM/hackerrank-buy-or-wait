@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Run the forecast on the evidence read so far.",
+    "tool": "run_forecast"
+  },
+  "key": "9edd88f1c7cd70250685e2021ecc04090e6ce9d1",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_20",
+    "step": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Next, list the evidence on file to see which messages or images could affect income, expenses, or pending payments.",
+    "tool": "list_evidence"
+  },
+  "key": "c690c184fdfc135ddb5cb4ce84b676170c74d119",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_16",
+    "step": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "image_02",
+    "plan_id": null,
+    "thought": "The message has no financial effect, but the image shows a balance due that could affect the payment decision, so I'll read it.",
+    "tool": "read_image"
+  },
+  "key": "3e249cd50f1a5f0db47859e206c1b3c33eae5b19",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_16",
+    "step": 3
+  }
+}

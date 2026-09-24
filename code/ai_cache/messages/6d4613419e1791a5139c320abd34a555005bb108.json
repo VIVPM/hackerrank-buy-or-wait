@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1914,
+    "confidence": 0.7,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": "2026-04-15",
+    "new_date": null,
+    "notes_short": "Employer payroll states regular salary of EUR 1914 resumes 2026-04-15; also mentions a new recurring childcare payment of unspecified amount starting in the same month (April 2026), not extracted as a",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "6d4613419e1791a5139c320abd34a555005bb108",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 661,
+    "message_id": "message_170",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 486,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "image_04",
+    "plan_id": null,
+    "thought": "Read the document image fact about total paid.",
+    "tool": "read_image"
+  },
+  "key": "d630fc6fa8c14c06fab60eb74ff284f6beb6ce1d",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_19",
+    "step": 3
+  }
+}

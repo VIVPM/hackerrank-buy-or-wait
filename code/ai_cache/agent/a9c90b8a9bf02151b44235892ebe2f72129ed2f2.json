@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows only INR 10,141 is safe to pay today and no earliest full-payment date within 90 days, so full payment now is not feasible. I should list candidate plans to find the best option (likely installments or waiting).",
+    "tool": "list_plans"
+  },
+  "key": "a9c90b8a9bf02151b44235892ebe2f72129ed2f2",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_20",
+    "step": 6
+  }
+}

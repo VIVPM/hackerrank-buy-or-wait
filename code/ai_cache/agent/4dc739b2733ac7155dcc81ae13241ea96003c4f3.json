@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "The forecast shows no safe amount to pay today and the lowest projected balance falls below the minimum to keep, so the extra repayment cannot be made without risking upcoming bills. The only listed plan is the not_recommended fallback.",
+    "tool": "finish"
+  },
+  "key": "4dc739b2733ac7155dcc81ae13241ea96003c4f3",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_05",
+    "step": 5
+  }
+}

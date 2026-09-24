@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No evidence to read; run the cash forecast on the profile.",
+    "tool": "run_forecast"
+  },
+  "key": "0fa272a1dc68ae11abbe4fc8aec81a6b67f85637",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_13",
+    "step": 3
+  }
+}

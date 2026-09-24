@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No messages or images exist, so no further evidence can be read. The forecast shows the full amount is safe to pay today. Now list candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "b1b9f9c4c22b29807ff8d4ce5e460f984833645c",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_09",
+    "step": 4
+  }
+}

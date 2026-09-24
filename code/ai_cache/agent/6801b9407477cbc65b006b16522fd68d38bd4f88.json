@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_10",
+    "plan_id": null,
+    "thought": "Read the salary change message, the only evidence available.",
+    "tool": "read_message"
+  },
+  "key": "6801b9407477cbc65b006b16522fd68d38bd4f88",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_14",
+    "step": 3
+  }
+}

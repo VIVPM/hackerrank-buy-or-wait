@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 864.0,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "USD",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "First salary of USD 864 from Cobolt Systems (payroll ref EMP-0111); confirmed credit date 2026-07-15, but funds appear only after the bank posts the credit, so not yet credited.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "331b9ea8d4809f20eeb75136b1043b7e9b6b3b10",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 654,
+    "message_id": "message_111",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 221,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

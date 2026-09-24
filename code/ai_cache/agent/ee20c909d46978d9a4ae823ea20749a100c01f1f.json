@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows the full 1,574.40 is safe to pay today, with the lowest projected balance at 3,399.45, well above the 1,800 minimum. Now I'll list the candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "ee20c909d46978d9a4ae823ea20749a100c01f1f",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_21",
+    "step": 4
+  }
+}

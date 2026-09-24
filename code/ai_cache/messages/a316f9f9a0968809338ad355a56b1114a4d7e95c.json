@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "TaskSprint weekly payout pending; earnings may change until payment settles; balance not withdrawable until status shows complete. Ref SER-0094.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "gig_payout"
+  },
+  "key": "a316f9f9a0968809338ad355a56b1114a4d7e95c",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 679,
+    "message_id": "message_94",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 120,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

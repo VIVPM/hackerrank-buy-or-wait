@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "RideGrid weekly payout pending; earnings may change until payment settles; balance not withdrawable until status shows complete. Ref SER-0034.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "gig_payout"
+  },
+  "key": "2945bf867dc1e0eef0a0c8b07a582a950c08530a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 680,
+    "message_id": "message_34",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 121,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

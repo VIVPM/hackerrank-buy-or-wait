@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 8618400,
+    "confidence": 0.75,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Payroll states temporary monthly salary of IDR 8,618,400; lower amount still applies for next payroll period, currently scheduled (provisional, not yet paid). Ref EMP-0065.",
+    "operation": "delay",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "8f717be41c7e16e8d810823824cd1963fb7589cb",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 673,
+    "message_id": "message_65",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 406,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "First I need to pull the request details and profile to understand the user's constraints.",
+    "tool": "get_request"
+  },
+  "key": "1eec7866e5fa26ebdd014983e0061b314988f964",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_15",
+    "step": 1
+  }
+}

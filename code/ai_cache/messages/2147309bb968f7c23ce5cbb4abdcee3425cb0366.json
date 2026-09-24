@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.6,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank reports failed debit attempt for outstanding bill; another debit may be attempted. No amount or date stated in message.",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "none"
+  },
+  "key": "2147309bb968f7c23ce5cbb4abdcee3425cb0366",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 681,
+    "message_id": "message_198",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 350,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

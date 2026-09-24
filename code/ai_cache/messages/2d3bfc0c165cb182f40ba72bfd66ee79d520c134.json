@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank review: matching debit and credit are transfers between two accounts owned by the same person; both remain in account history. Ref BAN-0213. No amount or date stated.",
+    "operation": "other_financial_fact",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "other"
+  },
+  "key": "2d3bfc0c165cb182f40ba72bfd66ee79d520c134",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 678,
+    "message_id": "message_213",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 193,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

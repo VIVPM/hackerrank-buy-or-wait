@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 2772.0,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2024-06-15",
+    "new_date": null,
+    "notes_short": "First salary of EUR 2772 from Cobalt Systems, credit date 2024-06-15, pending bank posting; payroll ref EMP-0181",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "367d10085529374e88da735d34d5392f7091f2c4",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 654,
+    "message_id": "message_181",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 169,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

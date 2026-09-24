@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "image_04",
+    "plan_id": null,
+    "thought": "Read the only evidence document to add it to the forecast.",
+    "tool": "read_image"
+  },
+  "key": "b9a93ad11072d8c34c70148b6f18970b462c9330",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_19",
+    "step": 3
+  }
+}

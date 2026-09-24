@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I've read the only evidence. Now I'll run the 90-day cash forecast to see how paying for the trip now affects the user's balance.",
+    "tool": "run_forecast"
+  },
+  "key": "e8e4610553481d1bfc875bf93d522dda667be156",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_11",
+    "step": 4
+  }
+}

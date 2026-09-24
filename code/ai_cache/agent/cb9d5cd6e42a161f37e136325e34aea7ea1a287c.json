@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I need to retrieve the request details and the user's profile before deciding on a payment plan.",
+    "tool": "get_request"
+  },
+  "key": "cb9d5cd6e42a161f37e136325e34aea7ea1a287c",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_11",
+    "step": 1
+  }
+}

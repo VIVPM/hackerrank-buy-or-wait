@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Run the 90-day forecast with the salary change evidence in place.",
+    "tool": "run_forecast"
+  },
+  "key": "e63a52c67146bf09f3a8466004904f8ebeeb6744",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_14",
+    "step": 4
+  }
+}

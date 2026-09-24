@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The only evidence is a no_financial_effect message about an investment, which won't change the cash forecast. Proceed to run the forecast on the request data.",
+    "tool": "run_forecast"
+  },
+  "key": "24426c9743cb9cc4b28664854d9e130248460d55",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_22",
+    "step": 3
+  }
+}

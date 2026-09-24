@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Foreign-currency refund for order MER-0167 still processing; home-currency credit amount not yet determined and may vary with settlement-date exchange rate.",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "gig_payout"
+  },
+  "key": "9978a686ada4b99f4692437234dffa839ed3d49b",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 654,
+    "message_id": "message_167",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 141,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Next, list available evidence to decide what to read before forecasting.",
+    "tool": "list_evidence"
+  },
+  "key": "b7f39f38d102822a92a0fd839bbd333c154ee6f8",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_06",
+    "step": 2
+  }
+}

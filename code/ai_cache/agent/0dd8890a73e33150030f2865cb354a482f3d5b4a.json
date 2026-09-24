@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows only EUR 312.92 is safe to pay today, well below the requested EUR 996.60. I should list the candidate plans to see what options exist.",
+    "tool": "list_plans"
+  },
+  "key": "0dd8890a73e33150030f2865cb354a482f3d5b4a",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_08",
+    "step": 5
+  }
+}

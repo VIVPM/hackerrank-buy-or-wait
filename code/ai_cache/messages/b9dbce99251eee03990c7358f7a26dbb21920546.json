@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.7,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Two separate card accounts each have a minimum payment due this month; no amounts or dates given; one payment will not cover the other account's minimum. Txn ref BAN-0161.",
+    "operation": "other_financial_fact",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "card_charge"
+  },
+  "key": "b9dbce99251eee03990c7358f7a26dbb21920546",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 667,
+    "message_id": "message_161",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 233,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

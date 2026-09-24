@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 53350,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": "2025-12-26",
+    "new_date": null,
+    "notes_short": "Investment sale proceeds settled into cash account; sale order complete, no pending proceeds. Account FIN-0108.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "investment"
+  },
+  "key": "d9c25c34630ffcd3933c429f8e398912fd5ec002",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 688,
+    "message_id": "message_108",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 228,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

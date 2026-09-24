@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "ShiftPay payout pending; weekly earnings may change until payout closes; balance not withdrawable until completed. Case ref SER-0123.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "gig_payout"
+  },
+  "key": "a27954b3ca5341118c0fae176965d27fa2c25f27",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 657,
+    "message_id": "message_123",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 132,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

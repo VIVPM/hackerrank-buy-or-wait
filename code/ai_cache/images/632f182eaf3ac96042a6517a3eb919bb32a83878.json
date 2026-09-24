@@ -1,0 +1,35 @@
+{
+  "fact": {
+    "amount_semantics": "total_paid",
+    "confidence": 1.0,
+    "currency": "\u20b9",
+    "document_type": "utility_bill",
+    "evidence_note": "Receipt for settled water bill, showing amount received matches charged amount; no partial payment or discount indicated.",
+    "other_amounts": [
+      {
+        "label": "gross_pay",
+        "value": 723.0
+      },
+      {
+        "label": "net_pay",
+        "value": 723.0
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 723.0
+  },
+  "key": "632f182eaf3ac96042a6517a3eb919bb32a83878",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_09",
+    "input_tokens": 1414,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 144,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_5170",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

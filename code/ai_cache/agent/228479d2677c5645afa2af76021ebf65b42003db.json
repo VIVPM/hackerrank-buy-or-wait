@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "List candidate plans given the forecast shows full payment is not safe today.",
+    "tool": "list_plans"
+  },
+  "key": "228479d2677c5645afa2af76021ebf65b42003db",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_08",
+    "step": 5
+  }
+}

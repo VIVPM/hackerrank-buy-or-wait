@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 25840000,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Payroll at Cedar Health changed; one household work income source ended; remaining confirmed monthly salary IDR 25,840,000; ended income to be excluded from next estimate; ref payroll EMP-0042.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "35d5ce716eca63ad38d232735c6681b705537094",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 678,
+    "message_id": "message_42",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 279,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

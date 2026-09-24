@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 38280,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "ZAR",
+    "effective_date": "2025-11-15",
+    "new_date": null,
+    "notes_short": "First salary from Northstar Labs (ref EMP-0210) approved and sent for processing; credit appears only after bank processes payroll file.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "dd6c3abb60189031dde7281a13ca36c6350cdebc",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 664,
+    "message_id": "message_210",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 162,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

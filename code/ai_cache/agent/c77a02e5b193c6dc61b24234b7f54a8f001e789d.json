@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_06",
+    "plan_id": null,
+    "thought": "Read the salary change message since it affects the 90-day forecast.",
+    "tool": "read_message"
+  },
+  "key": "c77a02e5b193c6dc61b24234b7f54a8f001e789d",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_08",
+    "step": 3
+  }
+}

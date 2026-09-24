@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows only EUR 551.22 safe to pay today but full payment possible by the deadline. List candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "702f1b6e503ee02f033f9cd8af46c0b379c36c7a",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_18",
+    "step": 5
+  }
+}

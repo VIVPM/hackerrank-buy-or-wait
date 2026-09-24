@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows paying today is unsafe (lowest balance 8580.40 below the 13100 minimum). List candidate plans such as installments or delayed payment.",
+    "tool": "list_plans"
+  },
+  "key": "07e037b092896273710263febe47fbf5e6554168",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_05",
+    "step": 4
+  }
+}

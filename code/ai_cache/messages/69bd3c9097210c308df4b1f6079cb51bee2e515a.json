@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1296,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "USD",
+    "effective_date": "2026-09-15",
+    "new_date": null,
+    "notes_short": "Employer confirmed USD 1296 salary credit for 15 Sep 2026; not yet settled, will use exchange rate at settlement. Separate wallet charge for EV session at Charge Point 1110, Krishnagiri on 3 Sep 2026,",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "69bd3c9097210c308df4b1f6079cb51bee2e515a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 715,
+    "message_id": "message_86",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 365,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

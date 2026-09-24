@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Fetch the list of evidence to decide which messages and images to read.",
+    "tool": "list_evidence"
+  },
+  "key": "c4e421f726d9674d5a11e300ea86860d0076c05f",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_23",
+    "step": 2
+  }
+}

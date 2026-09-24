@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": "2025-08-23",
+    "new_date": "2025-08-23",
+    "notes_short": "Employer states confirmed salary is now expected on 2025-08-23, replacing earlier payroll date; no amount given; payroll ref EMP-0154",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "f312d3946c33efbc7e18e13c3cf1f65a50a485d8",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 657,
+    "message_id": "message_154",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 198,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

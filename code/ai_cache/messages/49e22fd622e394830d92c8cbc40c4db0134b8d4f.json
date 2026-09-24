@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 35200,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "ZAR",
+    "effective_date": "2026-01-15",
+    "new_date": null,
+    "notes_short": "Client approved invoice payment of ZAR 35200; settlement expected 2026-01-15; other invoices still awaiting approval. Case ref SER-0173.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "49e22fd622e394830d92c8cbc40c4db0134b8d4f",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 666,
+    "message_id": "message_173",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 147,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "Only plan P1 exists: no safe payment possible; forecast shows just 101.97 EUR safe, far below 3685 EUR, and no full-payment date within the horizon. The investment cannot be made without breaching the minimum balance.",
+    "tool": "finish"
+  },
+  "key": "913b6571b897cb99bdfdb2d8b2184ec0096fb8cc",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_15",
+    "step": 6
+  }
+}

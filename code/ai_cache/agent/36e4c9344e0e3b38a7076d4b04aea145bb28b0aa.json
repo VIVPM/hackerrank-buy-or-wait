@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "The forecast shows only EUR 562.94 is safe to pay today, below the requested EUR 620.40, and the earliest safe full-payment date (2026-01-15) is after the deadline (2026-01-14). Partial payment is not allowed for this investment, so the only validated plan is P1: do not proceed with the investment.",
+    "tool": "finish"
+  },
+  "key": "36e4c9344e0e3b38a7076d4b04aea145bb28b0aa",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_06",
+    "step": 6
+  }
+}

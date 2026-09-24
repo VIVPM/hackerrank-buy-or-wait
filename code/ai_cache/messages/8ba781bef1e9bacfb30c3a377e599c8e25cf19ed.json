@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Seasonal employment contract ended; no off-season income or renewal confirmed; future shift block or contract would be communicated separately. Payroll ref EMP-0045.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "8ba781bef1e9bacfb30c3a377e599c8e25cf19ed",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 648,
+    "message_id": "message_45",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 216,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

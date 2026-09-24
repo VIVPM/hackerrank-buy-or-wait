@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows nothing is safe to pay today based on current evidence. Now list the candidate plans to choose from.",
+    "tool": "list_plans"
+  },
+  "key": "ff320b1e9179bda518b6ea44d8245f60651a0905",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_10",
+    "step": 5
+  }
+}

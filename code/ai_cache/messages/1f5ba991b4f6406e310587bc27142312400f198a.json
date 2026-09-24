@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": "2025-02-23",
+    "new_date": "2025-02-23",
+    "notes_short": "Employer Riverline Retail updated payroll date to 2025-02-23, replacing earlier date; salary amount not stated. Ref EMP-0050.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "1f5ba991b4f6406e310587bc27142312400f198a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 656,
+    "message_id": "message_50",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 196,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

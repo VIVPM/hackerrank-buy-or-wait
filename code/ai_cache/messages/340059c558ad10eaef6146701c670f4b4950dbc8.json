@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1528.56,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer payroll update: temporary reduced monthly pay of EUR 1528.56 continues for the next payroll cycle; ref EMP-0193",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "340059c558ad10eaef6146701c670f4b4950dbc8",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 651,
+    "message_id": "message_193",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 301,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

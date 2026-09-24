@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 13062500,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "IDR",
+    "effective_date": "2026-03-29",
+    "new_date": null,
+    "notes_short": "Investment sale proceeds fully credited to cash account; sale order completed, nothing pending. Ref FIN-0092.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "investment"
+  },
+  "key": "88800800b44da1b96c4fd47eb342912a6546f73c",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 707,
+    "message_id": "message_92",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 237,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

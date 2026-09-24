@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.8,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "One household employment record has ended (payroll ref EMP-0037); ended amount not quantified. Remaining confirmed monthly salary is INR 126000. Ended income should be removed from future estimates.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "1ad3dc56b86aed444f874bb40493ffce82806919",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 648,
+    "message_id": "message_37",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 488,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

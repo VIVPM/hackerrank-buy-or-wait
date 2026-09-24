@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_14",
+    "plan_id": null,
+    "thought": "Read the pending refund message, as it could change available funds.",
+    "tool": "read_message"
+  },
+  "key": "229eb8b3be6d745924c3a68bd8b887d3098435ca",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_20",
+    "step": 3
+  }
+}

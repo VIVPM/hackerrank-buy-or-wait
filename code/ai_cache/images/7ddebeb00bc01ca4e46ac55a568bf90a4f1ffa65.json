@@ -1,0 +1,39 @@
+{
+  "fact": {
+    "amount_semantics": "grand_total",
+    "confidence": 1.0,
+    "currency": "INR",
+    "document_type": "airline_invoice",
+    "evidence_note": "The document is an airline invoice showing breakdown of charges and taxes, with a clearly labeled Grand Total at the bottom.",
+    "other_amounts": [
+      {
+        "label": "subtotal",
+        "value": 9512.0
+      },
+      {
+        "label": "total_earnings",
+        "value": 9124.0
+      },
+      {
+        "label": "total_earnings",
+        "value": 388.0
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 9968.0
+  },
+  "key": "7ddebeb00bc01ca4e46ac55a568bf90a4f1ffa65",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_15",
+    "input_tokens": 2210,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 177,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_9806",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

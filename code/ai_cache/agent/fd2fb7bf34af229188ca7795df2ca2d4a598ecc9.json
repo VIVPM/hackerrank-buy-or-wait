@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast confirms the full EUR 166.61 is safe to pay today, with the lowest projected balance (EUR 2223.45) staying well above the EUR 600 minimum. Now I need to list the candidate plans to select one.",
+    "tool": "list_plans"
+  },
+  "key": "fd2fb7bf34af229188ca7795df2ca2d4a598ecc9",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_09",
+    "step": 4
+  }
+}

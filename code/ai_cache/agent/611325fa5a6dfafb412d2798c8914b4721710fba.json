@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "No evidence exists to read, and the forecast shows only EUR 559.87 is safe to pay today, below the requested EUR 941.60, with no safe full-payment date before the deadline. The only listed plan is the not_recommended fallback, so I must choose it.",
+    "tool": "finish"
+  },
+  "key": "611325fa5a6dfafb412d2798c8914b4721710fba",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_13",
+    "step": 5
+  }
+}

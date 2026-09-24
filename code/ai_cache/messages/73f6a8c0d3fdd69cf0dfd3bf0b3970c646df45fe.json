@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 847,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Cedar Health confirms base salary of EUR 847 (payroll ref EMP-0139). Commission on open deals is pending approval and excluded from payout until marked as earned; amount not stated.",
+    "operation": "confirm",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "73f6a8c0d3fdd69cf0dfd3bf0b3970c646df45fe",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 655,
+    "message_id": "message_139",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 150,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

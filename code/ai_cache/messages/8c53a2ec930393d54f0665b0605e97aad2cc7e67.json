@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Lease renewal increases monthly rent by 12%; new amount applies from the next rent payment; no amount or date specified. Case ref SER-0147.",
+    "operation": "recurrence_start",
+    "percent_change": 12,
+    "recurrence_effect": "none",
+    "target": "rent"
+  },
+  "key": "8c53a2ec930393d54f0665b0605e97aad2cc7e67",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 646,
+    "message_id": "message_147",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 175,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

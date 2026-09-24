@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "no evidence to read; run forecast",
+    "tool": "run_forecast"
+  },
+  "key": "dda3361aab33bb53301a322957f47a3c6ac950bc",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_01",
+    "step": 3
+  }
+}

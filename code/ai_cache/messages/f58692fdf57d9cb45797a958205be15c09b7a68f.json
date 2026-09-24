@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank notice: matching debit and credit are an internal transfer between the customer's own accounts; both entries remain in history. Ref BAN-0135. No amount or date stated.",
+    "operation": "other_financial_fact",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "other"
+  },
+  "key": "f58692fdf57d9cb45797a958205be15c09b7a68f",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 655,
+    "message_id": "message_135",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 236,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

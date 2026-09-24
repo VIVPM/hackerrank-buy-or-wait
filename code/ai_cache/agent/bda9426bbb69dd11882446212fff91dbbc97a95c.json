@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows only 10,108,370.84 is safe to pay today, below the requested 12,693,000, with earliest full payment on 2024-06-15 (before the 06-19 deadline). Now list candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "bda9426bbb69dd11882446212fff91dbbc97a95c",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_04",
+    "step": 5
+  }
+}

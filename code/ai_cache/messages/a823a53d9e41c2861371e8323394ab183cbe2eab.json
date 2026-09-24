@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1815,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": "2024-12-15",
+    "new_date": null,
+    "notes_short": "First salary from new employer HarborWorks, EUR 1815 confirmed for 2024-12-15; bank processing may take usual time after payroll release. Payroll ref EMP-0080.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "a823a53d9e41c2861371e8323394ab183cbe2eab",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 657,
+    "message_id": "message_80",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 183,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

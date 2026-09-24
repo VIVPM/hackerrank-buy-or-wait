@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows only EUR 101.97 is safe to pay today and no earliest full-payment date within the horizon. I'll list candidate plans to find a valid option.",
+    "tool": "list_plans"
+  },
+  "key": "2d5e9ff1b9021f93ed338d13644579ddc539f99b",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_15",
+    "step": 5
+  }
+}

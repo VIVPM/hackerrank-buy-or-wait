@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No evidence to read; run forecast on profile data.",
+    "tool": "run_forecast"
+  },
+  "key": "f0c9475922666a5a4804fd92013b2a63f196eb0e",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_01",
+    "step": 3
+  }
+}

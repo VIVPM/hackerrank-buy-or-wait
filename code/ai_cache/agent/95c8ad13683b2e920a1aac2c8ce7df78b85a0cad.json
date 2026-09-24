@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "First, I need to retrieve the purchase request details and the user's profile.",
+    "tool": "get_request"
+  },
+  "key": "95c8ad13683b2e920a1aac2c8ce7df78b85a0cad",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_19",
+    "step": 1
+  }
+}

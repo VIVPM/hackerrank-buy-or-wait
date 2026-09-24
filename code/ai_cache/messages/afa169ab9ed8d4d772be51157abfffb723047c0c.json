@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1924.56,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Riverline Retail states temporary reduced monthly pay of EUR 1924.56 continues for the next payroll; amount currently scheduled, not yet paid. Payroll ref EMP-0138.",
+    "operation": "recurrence_start",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "afa169ab9ed8d4d772be51157abfffb723047c0c",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 652,
+    "message_id": "message_138",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 261,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

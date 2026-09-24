@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer payroll update: next salary reduced to INR 148200 due to approved unpaid leave; visible on next payslip; ref EMP-0087.",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "1448fcb47068f169dc5ec9bac48952c4f4684e17",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 650,
+    "message_id": "message_87",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 151,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

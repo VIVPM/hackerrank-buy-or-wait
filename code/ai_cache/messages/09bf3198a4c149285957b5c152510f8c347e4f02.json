@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 148000,
+    "confidence": 0.8,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "One household employment record ended; remaining confirmed monthly salary INR 148000; payroll ref EMP-0030",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "09bf3198a4c149285957b5c152510f8c347e4f02",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 651,
+    "message_id": "message_30",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 475,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

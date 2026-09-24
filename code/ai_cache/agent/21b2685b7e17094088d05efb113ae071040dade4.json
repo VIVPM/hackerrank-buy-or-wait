@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows only 87,011.10 safe today, full payment possible by 2024-10-23, before the 14 Nov deadline. List candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "21b2685b7e17094088d05efb113ae071040dade4",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_07",
+    "step": 5
+  }
+}

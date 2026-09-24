@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "run forecast then list plans",
+    "tool": "run_forecast"
+  },
+  "key": "fd697c75aac72474f92b869a2bbaaf58ef01d363",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_03",
+    "step": 4
+  }
+}

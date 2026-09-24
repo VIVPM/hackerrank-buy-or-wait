@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 84000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": "2025-05-15",
+    "new_date": null,
+    "notes_short": "Employer payroll states regular salary of INR 84000 resumes on 2025-05-15; updated pay and deductions appear from next cycle; ref EMP-0120",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "c0b6f4aa6f13d7a1212aea40b91ce2f12b8321e0",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 662,
+    "message_id": "message_120",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 476,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows the user cannot safely pay the full amount today. List the candidate plans to see what options exist.",
+    "tool": "list_plans"
+  },
+  "key": "9f1f91f71470630f82b8a6edd19e24d8692ff81c",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_12",
+    "step": 5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1731.6,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Salary reduced to USD 1731.60 due to approved unpaid leave; visible on next payslip. Payroll ref EMP-0140.",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "39a89952963b3275727553990b5de63775db5873",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 651,
+    "message_id": "message_140",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 202,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

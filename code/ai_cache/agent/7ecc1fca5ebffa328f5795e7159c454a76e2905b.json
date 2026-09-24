@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "List candidate plans based on the forecast and evidence.",
+    "tool": "list_plans"
+  },
+  "key": "7ecc1fca5ebffa328f5795e7159c454a76e2905b",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_17",
+    "step": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Fetch the list of available evidence to decide which messages and document images to read.",
+    "tool": "list_evidence"
+  },
+  "key": "dfd23ad6759555b92f117d92c209609c415ec397",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_07",
+    "step": 2
+  }
+}

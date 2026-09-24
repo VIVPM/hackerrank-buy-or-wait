@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "P1 completes the full amount by the deadline with no spending changes and is the only recommended plan.",
+    "tool": "finish"
+  },
+  "key": "a8ceeadc6847dc5487e85e423757625f28613645",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_17",
+    "step": 6
+  }
+}

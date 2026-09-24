@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows full payment not safe today but possible by 2025-09-15, before the deadline. List candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "a5b9728c395be4384bc8cb3a497c2c559413b5d0",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_02",
+    "step": 5
+  }
+}

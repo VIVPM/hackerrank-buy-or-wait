@@ -1,0 +1,39 @@
+{
+  "fact": {
+    "amount_semantics": "total_paid",
+    "confidence": 1.0,
+    "currency": "\u20b9",
+    "document_type": "maintenance_receipt",
+    "evidence_note": "Document is a receipt showing payment received for maintenance charges; the total amount received is the economic value of the settled transaction.",
+    "other_amounts": [
+      {
+        "label": "item_total",
+        "value": 13880.0
+      },
+      {
+        "label": "item_total",
+        "value": 1050.0
+      },
+      {
+        "label": "item_total",
+        "value": 409.0
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 15339.0
+  },
+  "key": "74462f0321e74e0c543b7c146aaafa949d9075e0",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_08",
+    "input_tokens": 1924,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 177,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_4535",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer states next payroll regular salary EUR 1452 plus one-time arrears adjustment EUR 653.40, shown separately on payslip; no date given; payroll ref EMP-0020",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "4c579a9d2776af68b07b69d2a0fdc2869fea3f0d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 665,
+    "message_id": "message_20",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 387,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

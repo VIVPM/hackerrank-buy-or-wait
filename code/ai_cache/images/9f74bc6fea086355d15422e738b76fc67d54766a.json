@@ -1,0 +1,47 @@
+{
+  "fact": {
+    "amount_semantics": "balance_due",
+    "confidence": 1.0,
+    "currency": "INR",
+    "document_type": "hospital_bill",
+    "evidence_note": "Document explicitly states 'Balance: 3650.00' and 'Amount Payable: 3650.00' with zero paid, indicating this is the current amount owed.",
+    "other_amounts": [
+      {
+        "label": "total_paid",
+        "value": 0.0
+      },
+      {
+        "label": "subtotal",
+        "value": 250.0
+      },
+      {
+        "label": "subtotal",
+        "value": 1400.0
+      },
+      {
+        "label": "subtotal",
+        "value": 1000.0
+      },
+      {
+        "label": "subtotal",
+        "value": 500.0
+      }
+    ],
+    "payment_status": "unpaid",
+    "relevant_transaction_amount": 3650.0
+  },
+  "key": "9f74bc6fea086355d15422e738b76fc67d54766a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_11",
+    "input_tokens": 1655,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 234,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_6859",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

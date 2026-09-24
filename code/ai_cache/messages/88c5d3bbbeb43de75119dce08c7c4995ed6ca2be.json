@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Prize claim verified but still processing; payment not yet credited to account. Ref FIN-0134.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "prize"
+  },
+  "key": "88c5d3bbbeb43de75119dce08c7c4995ed6ca2be",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 667,
+    "message_id": "message_134",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 152,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows only ~1.13M IDR safe today, far below the 60.5M deposit, and no full-payment date within 90 days. List candidate plans (installments up to 3 months are allowed).",
+    "tool": "list_plans"
+  },
+  "key": "3e91ceef3dc755f1a4647bc36b0735b8fc352227",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_25",
+    "step": 4
+  }
+}

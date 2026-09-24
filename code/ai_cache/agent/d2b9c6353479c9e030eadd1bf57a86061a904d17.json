@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows full payment is not safe today but earliest full-payment date is 2025-09-15, before the deadline. Get candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "d2b9c6353479c9e030eadd1bf57a86061a904d17",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_02",
+    "step": 5
+  }
+}

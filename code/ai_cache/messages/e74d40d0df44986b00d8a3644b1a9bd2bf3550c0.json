@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 50160,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "ZAR",
+    "effective_date": "2024-09-15",
+    "new_date": null,
+    "notes_short": "Employer payroll update: regular salary of ZAR 50160 resumes on 2024-09-15; payroll ref EMP-0097.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "e74d40d0df44986b00d8a3644b1a9bd2bf3550c0",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 660,
+    "message_id": "message_97",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 282,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

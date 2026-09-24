@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The only evidence is a no_financial_effect message about a prize, so there's nothing meaningful to read. I'll run the forecast on the request data.",
+    "tool": "run_forecast"
+  },
+  "key": "af084237b6ecd46034532ad8622eca6ed6513abb",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_23",
+    "step": 3
+  }
+}

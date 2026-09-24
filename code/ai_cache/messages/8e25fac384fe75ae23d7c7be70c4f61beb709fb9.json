@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 30400000,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": "2026-04-15",
+    "new_date": null,
+    "notes_short": "First salary from Northstar Labs, IDR 30,400,000, confirmed credit date 2026-04-15; funds visible only after bank records the credit. Payroll ref EMP-0178.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "8e25fac384fe75ae23d7c7be70c4f61beb709fb9",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 664,
+    "message_id": "message_178",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 185,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

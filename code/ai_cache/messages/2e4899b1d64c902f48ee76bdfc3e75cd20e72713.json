@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 30780000,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": "2025-08-15",
+    "new_date": null,
+    "notes_short": "Klien menyetujui faktur IDR 30.780.000; penyelesaian diperkirakan 2025-08-15; faktur lain masih menunggu persetujuan. Ref SER-0018.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "2e4899b1d64c902f48ee76bdfc3e75cd20e72713",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 691,
+    "message_id": "message_18",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 177,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

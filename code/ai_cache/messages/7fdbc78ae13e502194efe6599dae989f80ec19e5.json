@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 31889,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "ZAR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer states next salary reduced to ZAR 31889 due to approved unpaid leave; visible on next payslip; no date given",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "7fdbc78ae13e502194efe6599dae989f80ec19e5",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 651,
+    "message_id": "message_148",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 155,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

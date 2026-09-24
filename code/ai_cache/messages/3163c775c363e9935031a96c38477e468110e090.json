@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 696,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": "2025-05-15",
+    "new_date": null,
+    "notes_short": "Payroll record updated by Greenfield Foods; salary of USD 696 confirmed for 2025-05-15, payroll ref EMP-0053. Receiving bank converts at settlement-date exchange rate, so final amount in home currency",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "3163c775c363e9935031a96c38477e468110e090",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 687,
+    "message_id": "message_53",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 187,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

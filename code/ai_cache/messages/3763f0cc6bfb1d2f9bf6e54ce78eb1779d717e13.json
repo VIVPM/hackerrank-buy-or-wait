@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank notice: matching debit and credit from a transfer between the customer's two accounts under the same holder; both entries remain in transaction history. No amount or date given.",
+    "operation": "other_financial_fact",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "other"
+  },
+  "key": "3763f0cc6bfb1d2f9bf6e54ce78eb1779d717e13",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 653,
+    "message_id": "message_41",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 122,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

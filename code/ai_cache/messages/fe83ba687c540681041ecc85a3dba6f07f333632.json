@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1188,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "Employer states monthly salary increased to EUR 1188 from 2026-07-15; revised amount appears on next payslip, not yet received.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "fe83ba687c540681041ecc85a3dba6f07f333632",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 651,
+    "message_id": "message_89",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 204,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

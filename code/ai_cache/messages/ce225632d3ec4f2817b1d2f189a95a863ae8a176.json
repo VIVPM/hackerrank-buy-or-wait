@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Nova Securities reports unrealized decline in displayed investment value; holdings not sold, no cash transaction, value fluctuates with market prices. No amount or date stated in message.",
+    "operation": "delay",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "investment"
+  },
+  "key": "ce225632d3ec4f2817b1d2f189a95a863ae8a176",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 697,
+    "message_id": "message_163",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 203,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_08",
+    "plan_id": null,
+    "thought": "The only evidence available is a salary amount change message, which is relevant to the 90-day cash forecast. I'll read it before running the forecast.",
+    "tool": "read_message"
+  },
+  "key": "d35365d27619e3057b32762bb2237534d3dfd982",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_11",
+    "step": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "P1 completes by deadline with no spending changes and the lowest total paid (39660 vs 41246.4), so it wins.",
+    "tool": "finish"
+  },
+  "key": "37d9c6ce7870b39f1caa7b918d21bb27da4c758d",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_19",
+    "step": 6
+  }
+}

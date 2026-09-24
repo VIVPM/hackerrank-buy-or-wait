@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows the full ZAR 25,256 is safe to pay today with lowest projected balance of ZAR 47,791.13, well above the 18,000 minimum. Now list candidate plans to pick one.",
+    "tool": "list_plans"
+  },
+  "key": "80fb48e0e233302ff6cc047caa43eb5618d8e488",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_01",
+    "step": 4
+  }
+}

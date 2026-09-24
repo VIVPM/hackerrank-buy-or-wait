@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.55,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer payroll (Cobalt Systems, ref EMP-0063) states regular salary of INR 62000 resumes on 2025-05-15; also mentions a new recurring childcare payment of unspecified amount beginning in the same (5",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "db2f2ed9482aab90b3dd951d0dbc28b4e127f78a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 658,
+    "message_id": "message_63",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 318,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

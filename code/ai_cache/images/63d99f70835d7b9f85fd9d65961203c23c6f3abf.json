@@ -1,0 +1,39 @@
+{
+  "fact": {
+    "amount_semantics": "total_paid",
+    "confidence": 1.0,
+    "currency": "\u20b9",
+    "document_type": "order_summary",
+    "evidence_note": "Document shows two tote bags ordered with item total \u20b92,298 and free delivery; 'Total paid' is explicitly stated as \u20b92,298 including taxes and delivery.",
+    "other_amounts": [
+      {
+        "label": "item_total",
+        "value": 2298
+      },
+      {
+        "label": "item_total",
+        "value": 699
+      },
+      {
+        "label": "item_total",
+        "value": 1599
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 2298
+  },
+  "key": "63d99f70835d7b9f85fd9d65961203c23c6f3abf",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_13",
+    "input_tokens": 1631,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 180,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_7941",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

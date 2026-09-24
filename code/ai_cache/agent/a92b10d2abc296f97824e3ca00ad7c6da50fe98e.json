@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Need to see available evidence before forecasting.",
+    "tool": "list_evidence"
+  },
+  "key": "a92b10d2abc296f97824e3ca00ad7c6da50fe98e",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_01",
+    "step": 2
+  }
+}

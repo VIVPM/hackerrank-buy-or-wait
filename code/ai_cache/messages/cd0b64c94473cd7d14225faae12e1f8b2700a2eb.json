@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 103000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer payroll states next regular salary of INR 103000 plus a one-time arrears adjustment of INR 46350 shown separately on the payslip; payroll ref EMP-0211; no date given.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "cd0b64c94473cd7d14225faae12e1f8b2700a2eb",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 664,
+    "message_id": "message_211",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 309,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

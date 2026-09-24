@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank notice: matching debit and credit were an internal transfer between the customer's two accounts at Summit Bank; both entries remain in transaction history. No amount or date given. Ref BAN-0013.",
+    "operation": "other_financial_fact",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "other"
+  },
+  "key": "d7444628db7b5fad971cd1d4d90477f24803817b",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 655,
+    "message_id": "message_13",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 128,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

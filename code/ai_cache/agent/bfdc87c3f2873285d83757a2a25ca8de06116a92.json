@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Need the purchase request and user profile first.",
+    "tool": "get_request"
+  },
+  "key": "bfdc87c3f2873285d83757a2a25ca8de06116a92",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_25",
+    "step": 1
+  }
+}

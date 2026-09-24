@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 561,
+    "confidence": 0.7,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": "2026-03-27",
+    "new_date": null,
+    "notes_short": "Prize proceeds credited to WinPoint account after withholding; claim closed, no further scheduled payments unless a separate prize is confirmed. Account ref FIN-0099.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "prize"
+  },
+  "key": "526fa7fa26af37d85ea185186415eca885c3d704",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 686,
+    "message_id": "message_99",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 444,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

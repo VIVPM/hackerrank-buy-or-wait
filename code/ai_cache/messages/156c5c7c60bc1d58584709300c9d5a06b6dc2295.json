@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 44270000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer BrightPath Media confirmed base salary IDR 44,270,000 (payroll ref EMP-0128). Commissions from ongoing transactions not yet approved and excluded from payment until earned.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "156c5c7c60bc1d58584709300c9d5a06b6dc2295",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 682,
+    "message_id": "message_128",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 288,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

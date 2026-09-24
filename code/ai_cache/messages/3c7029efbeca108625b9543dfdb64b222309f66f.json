@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.55,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Portfolio displayed market value increased substantially; unrealized, no units sold, no cash proceeds; value continues to move with market prices; account FIN-0052",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "investment"
+  },
+  "key": "3c7029efbeca108625b9543dfdb64b222309f66f",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 688,
+    "message_id": "message_52",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 179,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

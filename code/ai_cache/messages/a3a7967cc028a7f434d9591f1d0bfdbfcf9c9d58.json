@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 16910000,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": "2025-11-15",
+    "new_date": null,
+    "notes_short": "First salary from Northstar Labs, IDR 16,910,000, scheduled 2025-11-15; payroll approved and sent for processing, funds not yet visible until bank processes. Ref EMP-0182.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "a3a7967cc028a7f434d9591f1d0bfdbfcf9c9d58",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 686,
+    "message_id": "message_182",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 180,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

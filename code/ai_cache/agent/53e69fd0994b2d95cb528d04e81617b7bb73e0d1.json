@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_07",
+    "plan_id": null,
+    "thought": "Read the unconfirmed gig payout message to include it in the forecast.",
+    "tool": "read_message"
+  },
+  "key": "53e69fd0994b2d95cb528d04e81617b7bb73e0d1",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_10",
+    "step": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The only evidence is a no_financial_effect message, so nothing to read. I'll run the forecast to see if the investment is affordable.",
+    "tool": "run_forecast"
+  },
+  "key": "01db5915e4f9a10c23647c57553da6d8b7f63c4c",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_24",
+    "step": 3
+  }
+}

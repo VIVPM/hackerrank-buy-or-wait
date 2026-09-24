@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Next I'll list available evidence for this user.",
+    "tool": "list_evidence"
+  },
+  "key": "fbf4ae08c6fc6e1b38ea1bff51fab5d2f76db721",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_11",
+    "step": 2
+  }
+}

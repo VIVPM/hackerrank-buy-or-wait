@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_07",
+    "plan_id": null,
+    "thought": "Read the unconfirmed gig payout message, as it could change income.",
+    "tool": "read_message"
+  },
+  "key": "eb54cb953e96789cd5462b88a45171b677bcdac9",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_10",
+    "step": 3
+  }
+}

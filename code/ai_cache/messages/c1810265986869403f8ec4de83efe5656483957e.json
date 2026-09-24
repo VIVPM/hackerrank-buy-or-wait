@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 145000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": "2024-09-15",
+    "new_date": null,
+    "notes_short": "First salary from new employer BrightPath Media, INR 145000 confirmed for 2024-09-15; bank processing may take usual time after payroll release; payroll ref EMP-0149",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "c1810265986869403f8ec4de83efe5656483957e",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 658,
+    "message_id": "message_149",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 176,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

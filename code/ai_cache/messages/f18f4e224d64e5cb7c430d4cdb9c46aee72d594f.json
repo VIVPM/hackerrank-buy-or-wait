@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Foreign-currency refund from BrightBasket still processing; final home-currency credit calculated at settlement-date rate. Order ref MER-0146.",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "gig_payout"
+  },
+  "key": "f18f4e224d64e5cb7c430d4cdb9c46aee72d594f",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 653,
+    "message_id": "message_146",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 124,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

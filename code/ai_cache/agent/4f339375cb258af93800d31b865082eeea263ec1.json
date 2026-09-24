@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "The forecast shows only EUR 312.92 is safe to pay today, well below the EUR 996.60 required, and no full-payment date within the deadline. The only validated plan is P1 (not recommended).",
+    "tool": "finish"
+  },
+  "key": "4f339375cb258af93800d31b865082eeea263ec1",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_08",
+    "step": 6
+  }
+}

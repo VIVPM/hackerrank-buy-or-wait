@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 65.12,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Refund initiated but not yet credited; expected within ten business days; order MER-0152",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "refund"
+  },
+  "key": "76bb3d36664ec34a3e447f9ff9d3ba477b7b121f",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 683,
+    "message_id": "message_152",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 206,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

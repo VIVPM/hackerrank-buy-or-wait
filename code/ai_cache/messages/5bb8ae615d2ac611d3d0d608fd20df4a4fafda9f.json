@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1419,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2026-04-15",
+    "new_date": null,
+    "notes_short": "Client approved invoice payment of EUR 1419; settlement expected 2026-04-15; other invoices still awaiting approval. Case ref SER-0076.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "5bb8ae615d2ac611d3d0d608fd20df4a4fafda9f",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 663,
+    "message_id": "message_76",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 153,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

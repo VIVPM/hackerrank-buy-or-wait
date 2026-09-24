@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_09",
+    "plan_id": null,
+    "thought": "The salary income ending is highly relevant to the forecast, so read that message.",
+    "tool": "read_message"
+  },
+  "key": "9af573231a77b40f6c70c6abae8e8b2ae0cb216c",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_12",
+    "step": 3
+  }
+}

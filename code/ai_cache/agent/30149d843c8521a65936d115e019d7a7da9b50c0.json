@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows only 15,399.57 INR safe to pay against a 109,600 INR request, and no full-payment date within the horizon. The only evidence was a no-effect prize message. I'll list candidate plans to see what partial-payment options are validated.",
+    "tool": "list_plans"
+  },
+  "key": "30149d843c8521a65936d115e019d7a7da9b50c0",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_24",
+    "step": 5
+  }
+}

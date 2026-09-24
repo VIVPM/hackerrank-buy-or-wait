@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I have read the refund message (INR 8,640 pending) and the amount-due-by-date image (INR 704.05). Now I should run the 90-day cash forecast to see how much is safe to pay today and when a full payment of INR 303,700 could be affordable.",
+    "tool": "run_forecast"
+  },
+  "key": "1a464a3a154f5b3992612af10db523a9791eb4e0",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_20",
+    "step": 5
+  }
+}

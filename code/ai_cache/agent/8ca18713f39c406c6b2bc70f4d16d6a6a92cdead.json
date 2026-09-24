@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I've read the salary change message. Now I'll run the 90-day cash forecast to see the safe payment amount and projected balances.",
+    "tool": "run_forecast"
+  },
+  "key": "8ca18713f39c406c6b2bc70f4d16d6a6a92cdead",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_06",
+    "step": 4
+  }
+}

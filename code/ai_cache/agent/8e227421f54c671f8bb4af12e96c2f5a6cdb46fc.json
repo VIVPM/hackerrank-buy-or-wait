@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Now list the available evidence to decide what to read.",
+    "tool": "list_evidence"
+  },
+  "key": "8e227421f54c671f8bb4af12e96c2f5a6cdb46fc",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_18",
+    "step": 2
+  }
+}

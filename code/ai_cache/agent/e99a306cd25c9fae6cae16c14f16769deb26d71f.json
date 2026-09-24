@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Evidence read: net pay image. message_02 is no_financial_effect so skip it. Now list candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "e99a306cd25c9fae6cae16c14f16769deb26d71f",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_03",
+    "step": 5
+  }
+}

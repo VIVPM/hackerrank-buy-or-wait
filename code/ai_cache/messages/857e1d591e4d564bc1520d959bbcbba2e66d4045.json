@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.8,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank states a matching debit and credit came from a transfer between the customer's two own accounts; both entries remain visible in history. No amount or date given. Ref BAN-0202.",
+    "operation": "other_financial_fact",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "other"
+  },
+  "key": "857e1d591e4d564bc1520d959bbcbba2e66d4045",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 649,
+    "message_id": "message_202",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 155,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

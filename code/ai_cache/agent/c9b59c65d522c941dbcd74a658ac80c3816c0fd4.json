@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows only 559.87 safe today; list candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "c9b59c65d522c941dbcd74a658ac80c3816c0fd4",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_13",
+    "step": 4
+  }
+}

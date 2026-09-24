@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Start by fetching the request details and listing available evidence.",
+    "tool": "get_request"
+  },
+  "key": "0959d3161508e347db322d69ce8aa0b25bb56167",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_20",
+    "step": 1
+  }
+}

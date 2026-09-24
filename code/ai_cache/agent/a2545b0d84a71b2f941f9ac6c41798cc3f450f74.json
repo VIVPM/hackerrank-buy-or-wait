@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows the full amount is safe to pay today. Now I'll list the candidate plans to choose the best one.",
+    "tool": "list_plans"
+  },
+  "key": "a2545b0d84a71b2f941f9ac6c41798cc3f450f74",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_16",
+    "step": 5
+  }
+}

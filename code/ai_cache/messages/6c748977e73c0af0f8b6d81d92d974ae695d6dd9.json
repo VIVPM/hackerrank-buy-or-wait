@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 29070000,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "IDR",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "Payroll team (Cedar Health, ref EMP-0126) states monthly salary increases to IDR 29,070,000 effective 2026-07-15; updated amount visible on next payslip.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "6c748977e73c0af0f8b6d81d92d974ae695d6dd9",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 666,
+    "message_id": "message_126",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 188,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

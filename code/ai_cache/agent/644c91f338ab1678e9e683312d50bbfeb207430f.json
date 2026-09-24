@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No relevant evidence to read (only a no_financial_effect message). Forecast shows full payment safe by the deadline. List candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "644c91f338ab1678e9e683312d50bbfeb207430f",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_23",
+    "step": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "Plan P1 pays the full 1,574.40 today, meets the deadline, requires no spending changes, and keeps the projected balance well above the 1,800 minimum.",
+    "tool": "finish"
+  },
+  "key": "749111a71cb9409d60f38c5b23be3e113fa43f2c",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_21",
+    "step": 5
+  }
+}

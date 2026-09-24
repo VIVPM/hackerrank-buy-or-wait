@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1444000,
+    "confidence": 0.7,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Refund processed but not yet credited; most refunds complete within ten business days; order ref MER-0215",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "refund"
+  },
+  "key": "2967a475a1ced6a975d5558a8d14ade70046cc9d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 709,
+    "message_id": "message_215",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 415,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

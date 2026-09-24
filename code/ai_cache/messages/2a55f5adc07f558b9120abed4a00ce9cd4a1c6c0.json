@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 2424.0,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "Employer Cobalt Systems states monthly salary increased to USD 2424 effective 2026-07-15; payroll ref EMP-0169",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "2a55f5adc07f558b9120abed4a00ce9cd4a1c6c0",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 654,
+    "message_id": "message_169",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 227,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

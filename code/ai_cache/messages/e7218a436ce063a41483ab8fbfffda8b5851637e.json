@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 53680.0,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "ZAR",
+    "effective_date": "2024-12-15",
+    "new_date": null,
+    "notes_short": "First salary from new employer Cobalt Systems, ZAR 53680 confirmed for 2024-12-15; bank processing may take usual time after payroll release. Payroll ref EMP-0196.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "e7218a436ce063a41483ab8fbfffda8b5851637e",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 659,
+    "message_id": "message_196",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 200,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 69000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": "2024-06-15",
+    "new_date": null,
+    "notes_short": "First salary from new employer HarborWorks, INR 69000 confirmed for 2024-06-15; bank processing may take usual time after release. Payroll ref EMP-0038.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "bd08ccd01f633d2e6de4a6a22ff99f7303805b8d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 657,
+    "message_id": "message_38",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 189,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

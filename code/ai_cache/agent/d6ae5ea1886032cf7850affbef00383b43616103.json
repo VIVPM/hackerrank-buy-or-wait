@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I have the request details. The user has a balance of INR 362,370 with a minimum balance to keep of INR 122,400, so paying the full 122,500 deposit would leave them just above the minimum. Before deciding, I should check what evidence is on file to see if there are messages or documents that affect ",
+    "tool": "list_evidence"
+  },
+  "key": "d6ae5ea1886032cf7850affbef00383b43616103",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_16",
+    "step": 2
+  }
+}

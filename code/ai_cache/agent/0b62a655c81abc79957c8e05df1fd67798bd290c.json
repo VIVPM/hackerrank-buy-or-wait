@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_11",
+    "plan_id": null,
+    "thought": "There is one message about a salary amount change, which could materially affect the 90-day cash forecast. I should read it before running the forecast.",
+    "tool": "read_message"
+  },
+  "key": "0b62a655c81abc79957c8e05df1fd67798bd290c",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_15",
+    "step": 3
+  }
+}

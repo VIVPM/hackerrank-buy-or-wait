@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "List evidence to see what facts exist.",
+    "tool": "list_evidence"
+  },
+  "key": "9d51c026dd3bc638a480d1d98a8435017b146340",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_06",
+    "step": 2
+  }
+}

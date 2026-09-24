@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 164880,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer states temporary reduced monthly pay of INR 164880 continues for the next payroll cycle; no date given; payroll ref EMP-0077.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "37645657463492b78fe45969288db94789dadf51",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 650,
+    "message_id": "message_77",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 153,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

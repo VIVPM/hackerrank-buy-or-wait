@@ -1,0 +1,35 @@
+{
+  "fact": {
+    "amount_semantics": "total_paid",
+    "confidence": 1.0,
+    "currency": "\u20b9",
+    "document_type": "tax_invoice",
+    "evidence_note": "Document shows itemized grocery purchases with CGST/SGST taxes and a final Total of \u20b979,679.26. The 'Balance Due' is identical to the Total, indicating this is the full amount payable for the invoice.",
+    "other_amounts": [
+      {
+        "label": "subtotal",
+        "value": 72045.0
+      },
+      {
+        "label": "total_earnings",
+        "value": 79679.26
+      }
+    ],
+    "payment_status": "unpaid",
+    "relevant_transaction_amount": 79679.26
+  },
+  "key": "5b7c849c2939e5ed8e6715002395c29bcddcb14c",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_10",
+    "input_tokens": 1674,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 185,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_6033",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

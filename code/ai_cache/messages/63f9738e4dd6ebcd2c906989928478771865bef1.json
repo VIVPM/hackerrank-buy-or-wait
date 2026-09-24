@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 818.4,
+    "confidence": 0.7,
+    "confirmed": true,
+    "currency": "ZAR",
+    "effective_date": "2025-02-01",
+    "new_date": null,
+    "notes_short": "Employer credit is a settled work-expense reimbursement (ref EMP-0117), not regular salary; claim closed, no further reimbursement scheduled.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "63f9738e4dd6ebcd2c906989928478771865bef1",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 694,
+    "message_id": "message_117",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 301,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

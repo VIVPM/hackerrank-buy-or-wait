@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 166,
+    "confidence": 0.7,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Previous debit attempt failed; bill still outstanding and another debit may be attempted. Txn ref BAN-0069.",
+    "operation": "recurrence_start",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "utilities"
+  },
+  "key": "b3dcad7f10cdf15f8cee844600273525c4eea6c3",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 682,
+    "message_id": "message_69",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 275,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

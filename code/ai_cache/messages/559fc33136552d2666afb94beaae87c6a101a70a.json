@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 46170000,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "IDR",
+    "effective_date": "2024-09-15",
+    "new_date": null,
+    "notes_short": "Payroll Northstar Labs: first salary IDR 46,170,000 confirmed for 2024-09-15; bank processing may take time after send. Ref EMP-0116.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "559fc33136552d2666afb94beaae87c6a101a70a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 670,
+    "message_id": "message_116",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 313,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

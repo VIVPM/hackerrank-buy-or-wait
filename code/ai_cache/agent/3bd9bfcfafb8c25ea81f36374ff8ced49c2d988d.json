@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No relevant evidence to read; proceed to plans.",
+    "tool": "list_plans"
+  },
+  "key": "3bd9bfcfafb8c25ea81f36374ff8ced49c2d988d",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_04",
+    "step": 3
+  }
+}

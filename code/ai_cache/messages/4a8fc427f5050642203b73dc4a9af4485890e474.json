@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": "2025-02-23",
+    "new_date": "2025-02-23",
+    "notes_short": "Greenfield Foods: confirmed salary now expected 2025-02-23, replacing prior payroll date; ref EMP-0165; amount not stated",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "4a8fc427f5050642203b73dc4a9af4485890e474",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 686,
+    "message_id": "message_165",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 323,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

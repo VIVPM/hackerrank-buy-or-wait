@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "Only one validated plan exists: no payment recommended. Balance and salary cannot cover EUR 5,414.20 while keeping the EUR 2,200 minimum, and no full-payment date exists within the 90-day forecast. Choose P1.",
+    "tool": "finish"
+  },
+  "key": "96616efe81337042b6298e3931946c73159d9ecb",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_14",
+    "step": 6
+  }
+}

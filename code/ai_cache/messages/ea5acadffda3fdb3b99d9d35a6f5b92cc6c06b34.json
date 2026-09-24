@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 152000.0,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "Client approved invoice payment of INR 152000; settlement expected 2026-07-15; other invoices still awaiting approval.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "ea5acadffda3fdb3b99d9d35a6f5b92cc6c06b34",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 665,
+    "message_id": "message_96",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 151,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

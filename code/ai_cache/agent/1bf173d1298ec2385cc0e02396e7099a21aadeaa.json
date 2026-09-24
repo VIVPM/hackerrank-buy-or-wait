@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "Only not_recommended is available; the deposit is not affordable within the deadline.",
+    "tool": "finish"
+  },
+  "key": "1bf173d1298ec2385cc0e02396e7099a21aadeaa",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_25",
+    "step": 5
+  }
+}

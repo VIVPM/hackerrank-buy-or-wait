@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows only ZAR 59,833.79 is safe to pay today, less than the ZAR 65,164 required, and partial payment is not allowed. I'll list candidate plans to find a valid option such as installments.",
+    "tool": "list_plans"
+  },
+  "key": "cc29af40d4b4def3baebc725de4ffb43373b9a04",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_12",
+    "step": 5
+  }
+}

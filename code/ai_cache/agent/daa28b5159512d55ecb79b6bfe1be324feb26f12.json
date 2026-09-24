@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "P1 completes the full amount by the deadline with no spending changes and one payment; choose it.",
+    "tool": "finish"
+  },
+  "key": "daa28b5159512d55ecb79b6bfe1be324feb26f12",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_23",
+    "step": 5
+  }
+}

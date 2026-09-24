@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Fetch the evidence list to see which messages and images could affect the forecast.",
+    "tool": "list_evidence"
+  },
+  "key": "03f836725edfa5697037c19a0fe555648b52f782",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_12",
+    "step": 2
+  }
+}

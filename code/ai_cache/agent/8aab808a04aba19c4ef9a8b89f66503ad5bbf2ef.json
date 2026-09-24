@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I have the request details. Now I need to see what evidence is on file to determine which messages or images could affect income, expenses, or pending payments.",
+    "tool": "list_evidence"
+  },
+  "key": "8aab808a04aba19c4ef9a8b89f66503ad5bbf2ef",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_05",
+    "step": 2
+  }
+}

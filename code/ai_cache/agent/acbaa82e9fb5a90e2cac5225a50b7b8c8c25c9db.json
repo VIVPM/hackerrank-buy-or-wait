@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Run the 90-day cash forecast with the salary change evidence included.",
+    "tool": "run_forecast"
+  },
+  "key": "acbaa82e9fb5a90e2cac5225a50b7b8c8c25c9db",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_02",
+    "step": 4
+  }
+}

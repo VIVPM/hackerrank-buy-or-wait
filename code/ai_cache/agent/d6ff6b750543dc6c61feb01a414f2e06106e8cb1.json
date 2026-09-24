@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "All relevant evidence is read (the only message affects income). Now run the 90-day cash forecast to see what is safe to pay.",
+    "tool": "run_forecast"
+  },
+  "key": "d6ff6b750543dc6c61feb01a414f2e06106e8cb1",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_02",
+    "step": 4
+  }
+}

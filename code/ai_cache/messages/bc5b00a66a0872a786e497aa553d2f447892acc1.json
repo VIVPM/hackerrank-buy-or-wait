@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Everyday Store refund initiated but not yet credited; completion expected within ten business days; order ref MER-0172",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "refund"
+  },
+  "key": "bc5b00a66a0872a786e497aa553d2f447892acc1",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 683,
+    "message_id": "message_172",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 466,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

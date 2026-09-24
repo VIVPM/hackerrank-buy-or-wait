@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "The forecast shows no amount is safe to pay today (lowest projected balance 186,680.37 falls below the 225,400 minimum to keep), and the only validated plan is the not-recommended option. Recommend P1.",
+    "tool": "finish"
+  },
+  "key": "e8b51acff2cbaa6561446a7474ac36649d5bdce5",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_10",
+    "step": 6
+  }
+}

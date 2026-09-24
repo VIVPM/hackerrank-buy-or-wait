@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 26790000,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": "2025-11-15",
+    "new_date": null,
+    "notes_short": "First salary from HarborWorks, IDR 26,790,000, scheduled 2025-11-15; payroll approved and sent for processing, funds visible only after bank processes the payroll file. Ref EMP-0125.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "1abb66b83f3c796c32583a11c53d149a0a579bc2",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 684,
+    "message_id": "message_125",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 212,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

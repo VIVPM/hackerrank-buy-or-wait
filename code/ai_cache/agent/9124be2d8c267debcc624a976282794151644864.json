@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "First, retrieve the request details and user profile.",
+    "tool": "get_request"
+  },
+  "key": "9124be2d8c267debcc624a976282794151644864",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_06",
+    "step": 1
+  }
+}

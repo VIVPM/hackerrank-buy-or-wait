@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 38190000,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": "2025-11-15",
+    "new_date": null,
+    "notes_short": "First salary from Cedar Health scheduled 2025-11-15; payroll approved and sent for processing, funds not yet visible until bank processes. Ref EMP-0156.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "26a1d58dd0185b291b7a5180663689c2b7ed3aa3",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 688,
+    "message_id": "message_156",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 194,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

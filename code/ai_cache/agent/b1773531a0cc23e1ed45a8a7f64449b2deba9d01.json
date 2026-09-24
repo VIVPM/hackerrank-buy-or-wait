@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows only INR 10,141.13 is safe to pay and no earliest full-payment date within 90 days. List candidate plans to see what options exist.",
+    "tool": "list_plans"
+  },
+  "key": "b1773531a0cc23e1ed45a8a7f64449b2deba9d01",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_20",
+    "step": 6
+  }
+}

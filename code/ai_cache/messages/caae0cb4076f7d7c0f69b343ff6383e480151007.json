@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": null,
+    "effective_date": "2025-05-23",
+    "new_date": "2025-05-23",
+    "notes_short": "Employer updated payroll record: confirmed salary now expected on 2025-05-23, replacing earlier payroll date. Ref EMP-0101.",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "caae0cb4076f7d7c0f69b343ff6383e480151007",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 656,
+    "message_id": "message_101",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 157,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

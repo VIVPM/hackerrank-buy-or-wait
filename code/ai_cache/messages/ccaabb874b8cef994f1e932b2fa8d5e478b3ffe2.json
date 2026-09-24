@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.55,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Duplicate card charge still under investigation; dispute open; reversal not yet posted (txn ref BAN-0106).",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "card_charge"
+  },
+  "key": "ccaabb874b8cef994f1e932b2fa8d5e478b3ffe2",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 683,
+    "message_id": "message_106",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 208,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

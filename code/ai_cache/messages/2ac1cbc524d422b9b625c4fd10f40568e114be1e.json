@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.6,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank states minimum payments are due on two separate card accounts; no amounts or dates given; one payment will not cover the other account's minimum.",
+    "operation": "other_financial_fact",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "card_charge"
+  },
+  "key": "2ac1cbc524d422b9b625c4fd10f40568e114be1e",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 661,
+    "message_id": "message_136",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 180,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

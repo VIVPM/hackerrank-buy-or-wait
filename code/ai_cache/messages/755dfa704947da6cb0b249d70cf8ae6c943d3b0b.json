@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 62000,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": "2026-01-15",
+    "new_date": null,
+    "notes_short": "First salary from Cobalt Systems, payroll ref EMP-0188; credit expected 2026-01-15 but not yet posted by bank",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "755dfa704947da6cb0b249d70cf8ae6c943d3b0b",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 655,
+    "message_id": "message_188",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 175,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

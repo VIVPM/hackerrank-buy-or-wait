@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 2024.0,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2026-01-15",
+    "new_date": null,
+    "notes_short": "First salary from BrightPath Media, EUR 2024, credit date 2026-01-15, pending bank posting; payroll ref EMP-0162",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "bd7afb58c928525fd229acd356a896749e970ed9",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 654,
+    "message_id": "message_162",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 141,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

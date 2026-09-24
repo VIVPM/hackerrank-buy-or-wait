@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows paying the full amount today is safe: lowest balance 47,293,732.05 stays well above the 34,140,600 minimum. Now I'll list candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "d54e5dfac39041db51e11a55b18436e478a9f679",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_11",
+    "step": 5
+  }
+}

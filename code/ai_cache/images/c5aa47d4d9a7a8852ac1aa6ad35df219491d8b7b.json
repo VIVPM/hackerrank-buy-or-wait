@@ -1,0 +1,27 @@
+{
+  "fact": {
+    "amount_semantics": "grand_total",
+    "confidence": 1.0,
+    "currency": "INR",
+    "document_date": "2026-02-27",
+    "document_type": "retail_receipt",
+    "evidence_note": "Receipt shows 'Net Amount' and 'Cash Paid' both at 41272.00; no change or partial payment indicated, so grand total is the settled transaction amount.",
+    "other_amounts": [],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 41272.0
+  },
+  "key": "c5aa47d4d9a7a8852ac1aa6ad35df219491d8b7b",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_03",
+    "input_tokens": 1160,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 133,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_1545",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

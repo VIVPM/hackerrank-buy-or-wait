@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "Plan P1 (full payment today) completes the full amount by the deadline, requires no spending changes, has the lowest total paid, starts paying earliest, and has the fewest payments. It beats the not_recommended fallback P2 on every criterion.",
+    "tool": "finish"
+  },
+  "key": "f85023fa110ff9f384c5eeb1bca14121df2ce4ac",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_16",
+    "step": 6
+  }
+}

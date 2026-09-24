@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 2827,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "One household employment record ended; remaining confirmed monthly salary EUR 2827; ended income to be removed from future estimates; payroll ref EMP-0180",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "72cca462ec8cb2430527a0c5af68d238ac5421ad",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 648,
+    "message_id": "message_180",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 333,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

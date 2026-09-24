@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.55,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Failed utilities debit; bill still outstanding and another debit may be attempted (ref BAN-0201); no amount or date stated in message",
+    "operation": "recurrence_start",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "utilities"
+  },
+  "key": "c9851e0e1d29dfa340bdebadeebeada48ed819ed",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 681,
+    "message_id": "message_201",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 186,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

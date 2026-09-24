@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Start by fetching the purchase request and user profile.",
+    "tool": "get_request"
+  },
+  "key": "9cd3b0e41535358e69525fb9e73c002e4544dac8",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_14",
+    "step": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 251000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": "2026-01-15",
+    "new_date": null,
+    "notes_short": "Employer HarborWorks (ref EMP-0066) states regular salary of INR 251000 resumes on 2026-01-15; updated pay and deductions appear from next cycle. Also mentions a new recurring childcare payment begins",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "bf7325515e1403e8db54d6ef6768740764c90e79",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 657,
+    "message_id": "message_66",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 385,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

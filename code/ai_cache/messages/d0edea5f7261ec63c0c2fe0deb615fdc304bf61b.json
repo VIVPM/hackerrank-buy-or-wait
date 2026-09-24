@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 748,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": "2025-11-15",
+    "new_date": null,
+    "notes_short": "Employer Greenfield Foods confirms salary of EUR 748 for 2025-11-15; home-currency amount depends on settlement-date conversion. Payroll ref EMP-0095.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "d0edea5f7261ec63c0c2fe0deb615fdc304bf61b",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 668,
+    "message_id": "message_95",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 179,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

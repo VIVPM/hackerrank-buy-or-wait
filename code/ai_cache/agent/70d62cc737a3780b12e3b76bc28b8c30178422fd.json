@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "All relevant evidence has been read (the only item was a salary date change affecting income timing). Now run the 90-day forecast to determine safe payment amounts.",
+    "tool": "run_forecast"
+  },
+  "key": "70d62cc737a3780b12e3b76bc28b8c30178422fd",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_07",
+    "step": 4
+  }
+}

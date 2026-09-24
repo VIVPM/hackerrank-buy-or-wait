@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_03",
+    "plan_id": null,
+    "thought": "Read the salary message to add any relevant evidence before forecasting.",
+    "tool": "read_message"
+  },
+  "key": "6b3d2cd76f6f51808901df64b1e3733c4ccc6890",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_04",
+    "step": 3
+  }
+}

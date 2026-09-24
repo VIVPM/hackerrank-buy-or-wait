@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Payroll update from Northstar Labs: seasonal contract has ended; no off-season income or contract renewal confirmed yet. Ref EMP-0160.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "977b155ac384acf26cc6df69897572d365305d03",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 676,
+    "message_id": "message_160",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 175,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

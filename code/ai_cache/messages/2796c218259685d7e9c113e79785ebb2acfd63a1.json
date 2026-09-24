@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 12960,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": "2025-10-27",
+    "new_date": null,
+    "notes_short": "Merchant Everyday Store states refund initiated but not yet credited; further update promised. Order ref MER-0025.",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "refund"
+  },
+  "key": "2796c218259685d7e9c113e79785ebb2acfd63a1",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 672,
+    "message_id": "message_25",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 287,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

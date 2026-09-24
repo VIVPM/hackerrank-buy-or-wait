@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 42460.0,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "ZAR",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "Employer Northstar Labs updated payroll record: monthly salary increased to ZAR 42460 effective 2026-07-15, to appear on next payslip; ref EMP-0040",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "9afce31d31b62fb8cc0aba9ec30098b05546f83f",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 653,
+    "message_id": "message_40",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 198,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

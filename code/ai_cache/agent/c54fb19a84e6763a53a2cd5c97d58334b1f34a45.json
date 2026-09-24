@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "Plan P1 uses installments (a method the user will consider), completes before the 2026-06-20 enrolment deadline, requires only 2 spending changes (fewer than P2's 3), and pays the full ZAR 65,164 via 3 payments starting 2026-04-19. P3 fails the deadline. P1 is the best option.",
+    "tool": "finish"
+  },
+  "key": "c54fb19a84e6763a53a2cd5c97d58334b1f34a45",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_12",
+    "step": 6
+  }
+}

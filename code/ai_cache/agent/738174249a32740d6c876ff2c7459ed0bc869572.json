@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "image_01",
+    "plan_id": null,
+    "thought": "Read the net pay image, which is financially relevant; skip the no-effect message.",
+    "tool": "read_image"
+  },
+  "key": "738174249a32740d6c876ff2c7459ed0bc869572",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_03",
+    "step": 3
+  }
+}

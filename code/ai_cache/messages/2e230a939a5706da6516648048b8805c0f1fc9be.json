@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Payroll states seasonal contract has ended; no off-season income or renewal confirmed; will contact when next schedule or contract is approved. Ref EMP-0186.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "2e230a939a5706da6516648048b8805c0f1fc9be",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 677,
+    "message_id": "message_186",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 174,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

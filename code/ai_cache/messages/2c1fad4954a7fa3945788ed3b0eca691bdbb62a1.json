@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank reviewed txn BAN-0023: matching debit and credit were an internal transfer between the customer's two accounts; both entries remain in history. No amount or date stated.",
+    "operation": "other_financial_fact",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "other"
+  },
+  "key": "2c1fad4954a7fa3945788ed3b0eca691bdbb62a1",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 643,
+    "message_id": "message_23",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 225,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

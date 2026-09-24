@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The only evidence is marked no_financial_effect, so reading it won't change the forecast. The forecast shows only 473.33 safe today but full payment possible by 2025-01-15, well before the deadline. List candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "f5c985aa721a1851c52ee71dfa1b537691128e5c",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_22",
+    "step": 4
+  }
+}

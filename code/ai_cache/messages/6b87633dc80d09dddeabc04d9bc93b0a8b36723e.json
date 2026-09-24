@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1284,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": "2025-11-15",
+    "new_date": null,
+    "notes_short": "Employer payroll confirms salary of USD 1284 for 2025-11-15; home-currency amount depends on settlement-date conversion rate. Payroll ref EMP-0137.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "6b87633dc80d09dddeabc04d9bc93b0a8b36723e",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 664,
+    "message_id": "message_137",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 165,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Now that the salary change is in evidence, I'll run the 90-day cash forecast to see how much is safe to pay today and the projected balance.",
+    "tool": "run_forecast"
+  },
+  "key": "98ca155613b47080310e1ca3f74c44ea869e47e3",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_15",
+    "step": 4
+  }
+}

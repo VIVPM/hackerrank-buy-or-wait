@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 115000.0,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": "2025-02-15",
+    "new_date": null,
+    "notes_short": "First salary from Riverline Retail, payroll ref EMP-0032; credit date 2025-02-15 but funds appear only after bank posts the credit, so not yet confirmed.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "ff735f5794756e4044d42277b2d3daecbe86423d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 654,
+    "message_id": "message_32",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 172,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

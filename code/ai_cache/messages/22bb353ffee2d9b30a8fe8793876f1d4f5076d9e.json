@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 59000,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "First salary from Northstar Labs, INR 59000, credit date 2026-07-15; funds appear only after bank posts the credit, so not yet credited. Payroll ref EMP-0143.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "22bb353ffee2d9b30a8fe8793876f1d4f5076d9e",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 655,
+    "message_id": "message_143",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 270,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

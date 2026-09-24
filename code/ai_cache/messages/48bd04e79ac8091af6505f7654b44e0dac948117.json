@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank states reversal of disputed card charge (ref BAN-0121) has not yet been posted; dispute still open and under investigation.",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "card_charge"
+  },
+  "key": "48bd04e79ac8091af6505f7654b44e0dac948117",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 681,
+    "message_id": "message_121",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 246,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

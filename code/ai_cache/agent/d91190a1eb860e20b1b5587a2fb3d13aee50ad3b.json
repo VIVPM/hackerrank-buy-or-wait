@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_13",
+    "plan_id": null,
+    "thought": "Read the only message on file before forecasting.",
+    "tool": "read_message"
+  },
+  "key": "d91190a1eb860e20b1b5587a2fb3d13aee50ad3b",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_18",
+    "step": 3
+  }
+}

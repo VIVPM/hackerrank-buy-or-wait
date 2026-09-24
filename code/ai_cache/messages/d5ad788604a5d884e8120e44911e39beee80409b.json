@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 38760000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Greenfield Foods confirms base salary IDR 38,760,000 (payroll ref EMP-0008). Commission from ongoing transactions not yet approved and excluded from payment until earned.",
+    "operation": "confirm",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "d5ad788604a5d884e8120e44911e39beee80409b",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 680,
+    "message_id": "message_08",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 215,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

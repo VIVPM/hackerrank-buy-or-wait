@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Fetch evidence IDs to see what's available.",
+    "tool": "list_evidence"
+  },
+  "key": "62ac32ceb27a0590772b19010243287b9c94a3b2",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_17",
+    "step": 2
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "fact": {
+    "amount_semantics": "net_pay",
+    "confidence": 1.0,
+    "currency": "IDR",
+    "document_type": "payslip",
+    "evidence_note": "Document is a payslip for August 2019 showing net pay after deductions.",
+    "other_amounts": [
+      {
+        "label": "total_earnings",
+        "value": 4780800
+      },
+      {
+        "label": "total_earnings",
+        "value": 4780800
+      },
+      {
+        "label": "subtotal",
+        "value": 4780800
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 4365000
+  },
+  "key": "549a546532342621ec93b44b62c22a6940760b94",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_01",
+    "input_tokens": 2652,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 179,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_253",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

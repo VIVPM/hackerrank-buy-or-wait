@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The document shows a grand total of INR 41,272, far below the claimed 274,600. Run the forecast on this evidence.",
+    "tool": "run_forecast"
+  },
+  "key": "437c3584489e0359ca5d7d23ce5a2a2c19b6ee81",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_17",
+    "step": 4
+  }
+}

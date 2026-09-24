@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 33440,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "ZAR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Riverline Retail confirms base salary ZAR 33440 (payroll ref EMP-0082). Commission on open deals is pending approval and excluded from payout until marked earned; commission amount not quant.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "56adb3693fdd3d8e00d99df91558bbf7e1a7474d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 657,
+    "message_id": "message_82",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 240,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

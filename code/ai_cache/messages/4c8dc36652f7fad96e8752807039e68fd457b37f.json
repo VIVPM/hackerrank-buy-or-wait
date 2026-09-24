@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 627,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2024-06-15",
+    "new_date": null,
+    "notes_short": "First salary of EUR 627 from BrightPath Media, payroll ref EMP-0085; credit date 2024-06-15 but funds appear only after bank posts the credit, so not yet confirmed.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "4c8dc36652f7fad96e8752807039e68fd457b37f",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 653,
+    "message_id": "message_85",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 162,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

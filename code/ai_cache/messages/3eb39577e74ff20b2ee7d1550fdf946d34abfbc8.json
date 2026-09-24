@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 54120,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "ZAR",
+    "effective_date": "2025-02-15",
+    "new_date": null,
+    "notes_short": "First salary from BrightPath Media, ZAR 54120, credit date 2025-02-15, appears only after bank posts the credit; payroll ref EMP-0022.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "3eb39577e74ff20b2ee7d1550fdf946d34abfbc8",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 652,
+    "message_id": "message_22",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 218,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

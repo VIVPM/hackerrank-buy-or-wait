@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 26180.0,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "ZAR",
+    "effective_date": "2025-08-15",
+    "new_date": null,
+    "notes_short": "Client approved invoice payment of ZAR 26180 via PayPilot; settlement expected 2025-08-15; other invoices still awaiting approval. Case ref SER-0056.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "60811bfbedf0b5226aeb15501904c7be9639b413",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 667,
+    "message_id": "message_56",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 156,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

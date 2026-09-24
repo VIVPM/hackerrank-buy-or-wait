@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "image_02",
+    "plan_id": null,
+    "thought": "The message about rent has no financial effect. Now I need to read the balance due document image, which may contain the actual amount due and rejected figures relevant to this deposit request.",
+    "tool": "read_image"
+  },
+  "key": "1cf804d9d1b78b936356ec915fe8854000c8c5d1",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_16",
+    "step": 4
+  }
+}

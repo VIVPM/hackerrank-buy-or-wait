@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_02",
+    "plan_id": null,
+    "thought": "Read the salary message to add income context to the forecast, then run the forecast.",
+    "tool": "read_message"
+  },
+  "key": "d1c97f8e9af3befe46f5605d5eff8b700060b943",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_03",
+    "step": 4
+  }
+}

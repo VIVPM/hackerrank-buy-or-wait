@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 405.35,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": "2025-07-30",
+    "new_date": null,
+    "notes_short": "Prize proceeds credited after withholding; claim closed, no further scheduled payments unless a separate prize is confirmed. Account ref FIN-0028.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "prize"
+  },
+  "key": "c56e6a144726d0d9fc3f69fe3f7842941acbb298",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 682,
+    "message_id": "message_28",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 500,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

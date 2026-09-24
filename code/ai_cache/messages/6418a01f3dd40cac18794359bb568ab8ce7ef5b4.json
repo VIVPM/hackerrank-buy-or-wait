@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.55,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Reversal of disputed card charge (ref BAN-0197) still under investigation; funds not yet credited to account; dispute remains open.",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "gig_payout"
+  },
+  "key": "6418a01f3dd40cac18794359bb568ab8ce7ef5b4",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 701,
+    "message_id": "message_197",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 480,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

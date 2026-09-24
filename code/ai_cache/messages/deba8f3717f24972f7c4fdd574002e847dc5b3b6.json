@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.35,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "CartLane notification about a payment or refund (order MER-0145) charged in a foreign currency; final amount in home currency to be confirmed by the bank at completion using the exchange rate at that;",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "other"
+  },
+  "key": "deba8f3717f24972f7c4fdd574002e847dc5b3b6",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 677,
+    "message_id": "message_145",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 210,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No evidence exists, so run the forecast on current data.",
+    "tool": "run_forecast"
+  },
+  "key": "97b0ba9dae9d800bcfdd657ef6c4ec61e4df7434",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_09",
+    "step": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "P1 completes by deadline with no spending changes and is the only valid plan.",
+    "tool": "finish"
+  },
+  "key": "c3254b7a8efae9f95e2f0a7f2559a50ec0b0d3de",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_07",
+    "step": 6
+  }
+}

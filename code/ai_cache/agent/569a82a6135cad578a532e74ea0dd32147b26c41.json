@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_09",
+    "plan_id": null,
+    "thought": "There is a message indicating the user's salary income has ended, which is critical for the cash forecast. I need to read it before running the forecast.",
+    "tool": "read_message"
+  },
+  "key": "569a82a6135cad578a532e74ea0dd32147b26c41",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_12",
+    "step": 3
+  }
+}

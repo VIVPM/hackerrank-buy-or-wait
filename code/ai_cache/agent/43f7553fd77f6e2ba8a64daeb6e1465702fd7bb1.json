@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast shows only INR 15,399.57 is safe to pay today and no full-payment date is available before the deadline, so the full investment is not affordable. I'll list the candidate plans to see what options exist.",
+    "tool": "list_plans"
+  },
+  "key": "43f7553fd77f6e2ba8a64daeb6e1465702fd7bb1",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_24",
+    "step": 4
+  }
+}

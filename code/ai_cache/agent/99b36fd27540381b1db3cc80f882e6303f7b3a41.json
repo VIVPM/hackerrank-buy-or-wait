@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I have read all available evidence. The balance due document shows an amount of INR 100,000, which differs from the requested 122,500. Now I should run the 90-day cash forecast to see how much is safe to pay today and the projected balance.",
+    "tool": "run_forecast"
+  },
+  "key": "99b36fd27540381b1db3cc80f882e6303f7b3a41",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_16",
+    "step": 5
+  }
+}

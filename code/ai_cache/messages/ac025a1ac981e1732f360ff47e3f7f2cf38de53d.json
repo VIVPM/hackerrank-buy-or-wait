@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 45.65,
+    "confidence": 0.55,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Dispute open for duplicate card charge txn BAN-0183; reversal not yet posted to account",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "other"
+  },
+  "key": "ac025a1ac981e1732f360ff47e3f7f2cf38de53d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 685,
+    "message_id": "message_183",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 212,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

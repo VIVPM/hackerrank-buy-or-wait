@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "image_03",
+    "plan_id": null,
+    "thought": "Read the grand total image to capture the repair amount evidence.",
+    "tool": "read_image"
+  },
+  "key": "384534a1529a49eb74cf49487356b505372cea2e",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_17",
+    "step": 3
+  }
+}

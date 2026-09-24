@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The forecast says only 559.87 is safe today, but the user only considers full payment. Check available plans.",
+    "tool": "list_plans"
+  },
+  "key": "9335ea95875909f619daeef41ca936d7f0a37eaf",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_13",
+    "step": 4
+  }
+}

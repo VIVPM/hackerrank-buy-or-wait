@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1661,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2026-01-15",
+    "new_date": null,
+    "notes_short": "First salary from Riverline Retail, payroll ref EMP-0011; credit date 2026-01-15 but funds appear only after bank posts the credit, so not yet confirmed.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "000d3df01aa1d161b8159086d5688635ed36bbb9",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 653,
+    "message_id": "message_11",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 199,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

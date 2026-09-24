@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 32870000,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": "2024-09-15",
+    "new_date": null,
+    "notes_short": "First salary from new employer HarborWorks, IDR 32,870,000, payroll ref EMP-0031; payment confirmed for 2024-09-15 but bank processing may take additional time after payroll is sent, so funds not yet",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "287e7d15f35ebb25947643b35859a34c8ead2374",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 672,
+    "message_id": "message_31",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 226,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

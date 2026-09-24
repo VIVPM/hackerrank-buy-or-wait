@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "There is no evidence on file, so nothing to read. I'll run the 90-day cash forecast on the profile data.",
+    "tool": "run_forecast"
+  },
+  "key": "f2d6e469b2e4730de4c4056321a9b5eedb634ab1",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_05",
+    "step": 3
+  }
+}

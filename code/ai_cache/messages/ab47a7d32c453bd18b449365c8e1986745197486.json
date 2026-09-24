@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Greenfield Foods states seasonal contract has ended; no off-season income or renewal confirmed; will contact if another shift block or contract is approved. Payroll ref EMP-0206.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "salary"
+  },
+  "key": "ab47a7d32c453bd18b449365c8e1986745197486",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 650,
+    "message_id": "message_206",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 170,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

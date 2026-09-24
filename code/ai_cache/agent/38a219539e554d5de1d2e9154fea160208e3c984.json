@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The salary income ending is a critical fact for the forecast. Now I'll run the 90-day cash forecast with this evidence to see how much is safe to pay and when.",
+    "tool": "run_forecast"
+  },
+  "key": "38a219539e554d5de1d2e9154fea160208e3c984",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_12",
+    "step": 4
+  }
+}

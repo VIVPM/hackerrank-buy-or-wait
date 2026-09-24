@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "List candidate plans based on the forecast: full payment not safe until 15 November, installments capped at 2 months may work.",
+    "tool": "list_plans"
+  },
+  "key": "f6aa89f5d6db7c99d15c42d4f42d8432a4cff1a5",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_03",
+    "step": 6
+  }
+}

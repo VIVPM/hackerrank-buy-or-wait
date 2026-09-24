@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": "2026-04-03",
+    "new_date": null,
+    "notes_short": "Merchant BuyBox confirms tote bag order (ref MER-0064) was paid in INR on 2026-04-03; final amount stated to be on receipt but not quantified in message.",
+    "operation": "other_financial_fact",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "other"
+  },
+  "key": "48b5214676b3d1c6acb34eaedf569228e192802a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 665,
+    "message_id": "message_64",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 230,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

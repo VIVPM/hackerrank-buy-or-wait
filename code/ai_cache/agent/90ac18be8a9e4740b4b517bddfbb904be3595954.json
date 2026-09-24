@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_05",
+    "plan_id": null,
+    "thought": "Read the salary date change message, as it affects the cash forecast.",
+    "tool": "read_message"
+  },
+  "key": "90ac18be8a9e4740b4b517bddfbb904be3595954",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_07",
+    "step": 3
+  }
+}

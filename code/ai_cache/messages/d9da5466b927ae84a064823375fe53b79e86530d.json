@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 21090000,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Payroll record updated: regular salary for next payroll is IDR 21,090,000; same payroll also includes a one-time arrears adjustment of IDR 9,490,500 shown separately on the payslip. Ref payroll EMP-0",
+    "operation": "confirm",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "d9da5466b927ae84a064823375fe53b79e86530d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 696,
+    "message_id": "message_27",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 459,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

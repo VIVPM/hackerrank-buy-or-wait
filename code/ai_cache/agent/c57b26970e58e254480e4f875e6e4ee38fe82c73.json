@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "List evidence to find relevant facts.",
+    "tool": "list_evidence"
+  },
+  "key": "c57b26970e58e254480e4f875e6e4ee38fe82c73",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_09",
+    "step": 2
+  }
+}

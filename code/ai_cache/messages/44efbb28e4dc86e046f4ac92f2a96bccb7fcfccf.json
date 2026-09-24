@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 18700.0,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "ZAR",
+    "effective_date": "2026-07-15",
+    "new_date": null,
+    "notes_short": "First salary from Cedar Health payroll, ZAR 18700, credit date 2026-07-15; funds appear only after bank posts the credit, so not yet credited. Payroll ref EMP-0054.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "44efbb28e4dc86e046f4ac92f2a96bccb7fcfccf",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 650,
+    "message_id": "message_54",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 191,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

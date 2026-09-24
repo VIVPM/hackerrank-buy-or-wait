@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 137150,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Greenfield Foods states next salary reduced to INR 137150 due to approved unpaid leave; visible on next payslip; payroll ref EMP-0132.",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "8bf7257157b8f8d6856d8305b9f2fb1b29e84d1b",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 651,
+    "message_id": "message_132",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 193,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

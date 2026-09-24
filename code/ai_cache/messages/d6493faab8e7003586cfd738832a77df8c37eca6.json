@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.55,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Bank notice: previous debit attempt for an outstanding bill failed; another debit may be attempted. Amount not stated in message (linked event: 73 EUR utilities debit, failed). Txn ref BAN-0179.",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "none"
+  },
+  "key": "d6493faab8e7003586cfd738832a77df8c37eca6",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 683,
+    "message_id": "message_179",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 343,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

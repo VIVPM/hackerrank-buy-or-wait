@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "PocketVest displayed investment value has decreased; unrealized, not sold, no cash transaction; value fluctuates with market prices. Ref FIN-0185.",
+    "operation": "delay",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "investment"
+  },
+  "key": "735cb84cca119e9c0698e3772b19c998c156bb3d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 699,
+    "message_id": "message_185",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 219,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

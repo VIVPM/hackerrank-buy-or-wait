@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "P1 pays the full ZAR 38,016 on 2025-07-15, meeting the deadline with no spending changes, and the forecast shows that date as the earliest safe full-payment date.",
+    "tool": "finish"
+  },
+  "key": "e128c5c8bed5e05d48808f5ae475445da894f765",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_23",
+    "step": 5
+  }
+}

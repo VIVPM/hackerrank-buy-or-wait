@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1750.32,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Cedar Health states temporary reduced monthly pay of EUR 1750.32 continues for the next payroll cycle; payroll ref EMP-0153; no date given.",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "a6e59b3acc2647904fe2926910fd262ed5e0cf7d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 651,
+    "message_id": "message_153",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 228,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

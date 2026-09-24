@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "Only the not_recommended plan exists; the user cannot safely pay INR 303,700 within the deadline. Choose the fallback plan.",
+    "tool": "finish"
+  },
+  "key": "d0803170e50aeafb30585d2c182539bff21d3577",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_20",
+    "step": 7
+  }
+}

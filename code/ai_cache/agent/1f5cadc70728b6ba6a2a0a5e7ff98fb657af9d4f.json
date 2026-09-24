@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "",
+    "tool": "list_evidence"
+  },
+  "key": "1f5cadc70728b6ba6a2a0a5e7ff98fb657af9d4f",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_07",
+    "step": 2
+  }
+}

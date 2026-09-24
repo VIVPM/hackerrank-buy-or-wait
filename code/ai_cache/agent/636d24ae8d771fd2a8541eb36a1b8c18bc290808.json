@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The only evidence on file (a salary message with no quantified financial effect) has been read. Now run the 90-day cash forecast to see how much is safe to pay today and the projected balance.",
+    "tool": "run_forecast"
+  },
+  "key": "636d24ae8d771fd2a8541eb36a1b8c18bc290808",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_04",
+    "step": 4
+  }
+}

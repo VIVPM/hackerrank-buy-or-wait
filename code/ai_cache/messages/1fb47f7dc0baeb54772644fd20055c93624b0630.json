@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 912,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer states one household employment record has ended; remaining confirmed monthly salary is USD 912. No date or amount given for the ended record.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "1fb47f7dc0baeb54772644fd20055c93624b0630",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 648,
+    "message_id": "message_187",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 482,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

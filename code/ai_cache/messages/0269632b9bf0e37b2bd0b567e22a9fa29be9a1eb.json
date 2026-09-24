@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.5,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Payroll team at Cedar Health states the latest employer credit is a reimbursement for an earlier work expense (claim closed, no additional reimbursement scheduled), not regular salary. Payroll ref EMP",
+    "operation": "recurrence_stop",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "0269632b9bf0e37b2bd0b567e22a9fa29be9a1eb",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 693,
+    "message_id": "message_150",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 270,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

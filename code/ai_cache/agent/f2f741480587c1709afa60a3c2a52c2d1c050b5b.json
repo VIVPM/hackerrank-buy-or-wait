@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "P1 completes the full transfer by the deadline with no spending changes; P2 is not_recommended.",
+    "tool": "finish"
+  },
+  "key": "f2f741480587c1709afa60a3c2a52c2d1c050b5b",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_22",
+    "step": 4
+  }
+}

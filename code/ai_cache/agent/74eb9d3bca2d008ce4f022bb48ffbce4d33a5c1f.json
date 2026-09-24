@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "List available evidence to see what facts are on file for this user.",
+    "tool": "list_evidence"
+  },
+  "key": "74eb9d3bca2d008ce4f022bb48ffbce4d33a5c1f",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_12",
+    "step": 2
+  }
+}

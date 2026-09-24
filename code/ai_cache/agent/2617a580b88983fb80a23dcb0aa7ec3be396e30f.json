@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Fetch evidence list.",
+    "tool": "list_evidence"
+  },
+  "key": "2617a580b88983fb80a23dcb0aa7ec3be396e30f",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_25",
+    "step": 2
+  }
+}

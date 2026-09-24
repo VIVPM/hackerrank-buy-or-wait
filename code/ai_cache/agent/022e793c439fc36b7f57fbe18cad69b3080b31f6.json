@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "P1 completes by the deadline with the fewest spending changes (2 vs P2's 3) and the same total paid, so P1 is the best plan.",
+    "tool": "finish"
+  },
+  "key": "022e793c439fc36b7f57fbe18cad69b3080b31f6",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_12",
+    "step": 6
+  }
+}

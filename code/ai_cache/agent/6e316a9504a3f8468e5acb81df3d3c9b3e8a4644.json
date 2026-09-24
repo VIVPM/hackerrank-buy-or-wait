@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "I have the request details. Now I need to see what evidence is on file so I can read the relevant messages and images before running the forecast.",
+    "tool": "list_evidence"
+  },
+  "key": "6e316a9504a3f8468e5acb81df3d3c9b3e8a4644",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_10",
+    "step": 2
+  }
+}

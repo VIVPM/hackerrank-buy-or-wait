@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 968,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2025-08-15",
+    "new_date": null,
+    "notes_short": "First salary from Riverline Retail, approved and sent for processing; credit pending bank processing of payroll file. Ref EMP-0190.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "942ceee5ca397a41ce28504c1545c2e1f11b28a7",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 660,
+    "message_id": "message_190",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 116,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "All available evidence has been read and the forecast run. Now list the candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "763478745a0353a1b64ed7e53627a0514649363a",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_19",
+    "step": 5
+  }
+}

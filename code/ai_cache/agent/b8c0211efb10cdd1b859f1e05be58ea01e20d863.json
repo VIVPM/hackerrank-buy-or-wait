@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Get candidate plans based on the evidence read.",
+    "tool": "list_plans"
+  },
+  "key": "b8c0211efb10cdd1b859f1e05be58ea01e20d863",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_19",
+    "step": 5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 49280,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "ZAR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Cobalt Systems confirms base salary ZAR 49280 (payroll ref EMP-0070). Commission on open deals is pending approval and excluded from payout until marked earned.",
+    "operation": "confirm",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "0d6d0c79d1c8a24a80c03a0f7acbb093f25787f0",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 658,
+    "message_id": "message_70",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 296,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

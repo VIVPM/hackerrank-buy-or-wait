@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "All relevant evidence is read (only the salary change message existed). Now run the 90-day cash forecast on the evidence.",
+    "tool": "run_forecast"
+  },
+  "key": "f4bffbfe9ae5667ff5e673488098c6b85b582f97",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_15",
+    "step": 4
+  }
+}

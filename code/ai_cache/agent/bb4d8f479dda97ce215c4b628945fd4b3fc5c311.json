@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": "message_11",
+    "plan_id": null,
+    "thought": "Salary change could affect income; read it.",
+    "tool": "read_message"
+  },
+  "key": "bb4d8f479dda97ce215c4b628945fd4b3fc5c311",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_15",
+    "step": 3
+  }
+}

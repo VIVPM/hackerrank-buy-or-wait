@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No evidence to read; run the forecast to see what is safe to pay.",
+    "tool": "run_forecast"
+  },
+  "key": "bc665b6fef435eaae94449ed0e17a7e0ace10641",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_13",
+    "step": 3
+  }
+}

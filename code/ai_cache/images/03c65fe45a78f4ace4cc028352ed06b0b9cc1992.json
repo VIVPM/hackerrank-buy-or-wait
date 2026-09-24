@@ -1,0 +1,59 @@
+{
+  "fact": {
+    "amount_semantics": "balance_due",
+    "confidence": 1.0,
+    "currency": "INR",
+    "document_type": "rent_receipt",
+    "evidence_note": "The document is a rent receipt showing a total amount to be received of 2,00,000.00 and an amount received of 1,00,000.00, leaving a balance due of 1,00,000.00. The financial event described is an 'ou",
+    "other_amounts": [
+      {
+        "label": "total_earnings",
+        "value": 200000.0
+      },
+      {
+        "label": "amount_due_by_date",
+        "value": 200000.0
+      },
+      {
+        "label": "amount_due_after_date",
+        "value": 200000.0
+      },
+      {
+        "label": "amount_due_by_date",
+        "value": 100000.0
+      },
+      {
+        "label": "amount_due_after_date",
+        "value": 100000.0
+      },
+      {
+        "label": "amount_due_by_date",
+        "value": 180000.0
+      },
+      {
+        "label": "amount_due_after_date",
+        "value": 180000.0
+      },
+      {
+        "label": "amount_due_by_date",
+        "value": 5000.0
+      }
+    ],
+    "payment_status": "partially_paid",
+    "relevant_transaction_amount": 100000.0
+  },
+  "key": "03c65fe45a78f4ace4cc028352ed06b0b9cc1992",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_02",
+    "input_tokens": 1966,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 386,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_1442",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

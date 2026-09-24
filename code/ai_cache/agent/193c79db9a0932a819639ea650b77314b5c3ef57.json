@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "The forecast shows no safe amount to pay today and the only listed plan is the fallback, so I must recommend it.",
+    "tool": "finish"
+  },
+  "key": "193c79db9a0932a819639ea650b77314b5c3ef57",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_10",
+    "step": 6
+  }
+}

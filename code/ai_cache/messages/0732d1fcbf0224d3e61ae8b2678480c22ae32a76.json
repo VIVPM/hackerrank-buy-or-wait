@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1485,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": "2025-05-15",
+    "new_date": null,
+    "notes_short": "Employer Riverline Retail confirms salary of EUR 1485 for 2025-05-15; home-currency amount depends on settlement-date conversion. Payroll ref EMP-0204.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "0732d1fcbf0224d3e61ae8b2678480c22ae32a76",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 666,
+    "message_id": "message_204",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 171,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

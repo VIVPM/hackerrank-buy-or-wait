@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Run the 90-day forecast with the salary-ending evidence included.",
+    "tool": "run_forecast"
+  },
+  "key": "733241d15b8ccdc95f4eee9f025077d527e4c4ce",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_12",
+    "step": 4
+  }
+}

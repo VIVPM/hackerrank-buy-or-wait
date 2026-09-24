@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "P1 completes the full amount by the deadline with no spending changes, one payment today, and the forecast shows the balance stays well above the minimum. P2 does not complete the payment.",
+    "tool": "finish"
+  },
+  "key": "912f29e53329aa6dfd8e1111be461b1cbc0a32b0",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_01",
+    "step": 5
+  }
+}

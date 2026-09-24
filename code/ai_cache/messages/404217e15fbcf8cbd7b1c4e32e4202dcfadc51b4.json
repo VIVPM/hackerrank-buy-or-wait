@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 702.0,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer Greenfield Foods states next salary reduced to USD 702 due to approved unpaid leave; visible on next payslip; ref EMP-0195",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "404217e15fbcf8cbd7b1c4e32e4202dcfadc51b4",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 650,
+    "message_id": "message_195",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 178,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No messages or images to read, so the forecast is final. Now list candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "fdba5c9cbc90d431d4eb741351170bf5cef4660f",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_25",
+    "step": 4
+  }
+}

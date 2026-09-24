@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": null,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": null,
+    "effective_date": "2025-05-23",
+    "new_date": "2025-05-23",
+    "notes_short": "Employer BrightPath Media states confirmed salary is now expected on 2025-05-23, replacing the earlier payroll date; no amount quantified. Payroll ref EMP-0131.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "8e706f395d5239b7d70cc62d4e2f6edbe165bd01",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 658,
+    "message_id": "message_131",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 211,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

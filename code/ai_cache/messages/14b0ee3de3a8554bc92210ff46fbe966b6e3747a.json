@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 15390000,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "IDR",
+    "effective_date": "2025-08-15",
+    "new_date": null,
+    "notes_short": "Client approved IDR 15,390,000 invoice; settlement expected 2025-08-15; another invoice still pending approval. Ref SER-0093.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "14b0ee3de3a8554bc92210ff46fbe966b6e3747a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 697,
+    "message_id": "message_93",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 146,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

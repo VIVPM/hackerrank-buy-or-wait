@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 924.0,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2024-12-15",
+    "new_date": null,
+    "notes_short": "Client approved invoice payment of EUR 924 via ProjectPay; settlement expected 2024-12-15; other invoices still awaiting approval; case ref SER-0072.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "dfd481dd2998279b71ff495878fb55b185c51ec0",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 659,
+    "message_id": "message_72",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 163,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

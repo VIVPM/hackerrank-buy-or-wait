@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1548,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer confirms base salary of USD 1548 (payroll ref EMP-0194). Commission on open deals is pending approval and excluded from payout until marked as earned; amount not stated.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "413103e9743e9de289bae24046424173de1c0612",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 655,
+    "message_id": "message_194",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 183,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

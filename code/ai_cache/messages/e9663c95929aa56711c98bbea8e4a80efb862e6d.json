@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1680,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": "2025-11-15",
+    "new_date": null,
+    "notes_short": "Payroll at Cedar Health confirms salary of USD 1680 for 2025-11-15; home-currency amount depends on settlement-date conversion. Ref EMP-0191.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "e9663c95929aa56711c98bbea8e4a80efb862e6d",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 667,
+    "message_id": "message_191",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 163,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

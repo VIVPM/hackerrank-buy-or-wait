@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "Forecast shows full payment not safe by deadline (earliest 2026-01-15). List candidate plans.",
+    "tool": "list_plans"
+  },
+  "key": "8f0dfe7ddc6b62210b1ce8cc5f05aeb094ac8924",
+  "meta": {
+    "prompt": "guided",
+    "request_id": "request_06",
+    "step": 5
+  }
+}

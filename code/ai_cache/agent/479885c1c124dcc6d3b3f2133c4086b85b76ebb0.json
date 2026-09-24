@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "The requested amount (INR 303,700) far exceeds the current balance (INR 102,609), so I need to see what evidence exists about incoming funds before deciding whether to book now or wait.",
+    "tool": "list_evidence"
+  },
+  "key": "479885c1c124dcc6d3b3f2133c4086b85b76ebb0",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_20",
+    "step": 2
+  }
+}

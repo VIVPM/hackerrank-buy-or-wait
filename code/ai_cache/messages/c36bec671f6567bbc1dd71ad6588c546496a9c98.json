@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1760.0,
+    "confidence": 0.9,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2024-06-15",
+    "new_date": null,
+    "notes_short": "Employer states first salary of EUR 1760 with confirmed credit date 2024-06-15, but funds appear only after bank posts the credit; not yet credited. Payroll ref EMP-0029.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "c36bec671f6567bbc1dd71ad6588c546496a9c98",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 651,
+    "message_id": "message_29",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 207,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

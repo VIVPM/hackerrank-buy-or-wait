@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "List available evidence to see what documents and messages exist before running a forecast.",
+    "tool": "list_evidence"
+  },
+  "key": "894b00c1e96df501176d34953b9df0c8b45d9254",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_15",
+    "step": 2
+  }
+}

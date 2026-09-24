@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 2376.0,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "EUR",
+    "effective_date": "2024-12-15",
+    "new_date": null,
+    "notes_short": "FreelanceHub: client approved invoice payment of EUR 2376, settlement expected 2024-12-15; other invoices still awaiting approval. Case ref SER-0141.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "ab42264ba017adc56abfb72e85ef44a11186bebb",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 665,
+    "message_id": "message_141",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 161,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

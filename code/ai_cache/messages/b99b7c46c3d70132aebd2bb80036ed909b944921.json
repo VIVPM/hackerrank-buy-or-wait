@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1193.4,
+    "confidence": 0.95,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer payroll states next salary reduced to USD 1193.40 due to approved unpaid leave; visible on next payslip. No date given.",
+    "operation": "salary_change",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "b99b7c46c3d70132aebd2bb80036ed909b944921",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 647,
+    "message_id": "message_102",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 169,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

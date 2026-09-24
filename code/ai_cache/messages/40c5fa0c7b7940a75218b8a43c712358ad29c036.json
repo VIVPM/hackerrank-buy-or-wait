@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 158000,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer payroll confirms base salary of INR 158000. Commission on open deals is pending approval and excluded from payout until marked earned; amount not quantified.",
+    "operation": "confirm",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "40c5fa0c7b7940a75218b8a43c712358ad29c036",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 654,
+    "message_id": "message_60",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 135,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

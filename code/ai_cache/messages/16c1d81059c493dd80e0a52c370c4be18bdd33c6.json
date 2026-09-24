@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 8640,
+    "confidence": 0.85,
+    "confirmed": false,
+    "currency": "INR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Refund initiated but not yet credited to account; further update promised. Order ref MER-0014.",
+    "operation": "refund_notice",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "refund"
+  },
+  "key": "16c1d81059c493dd80e0a52c370c4be18bdd33c6",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 674,
+    "message_id": "message_14",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 387,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

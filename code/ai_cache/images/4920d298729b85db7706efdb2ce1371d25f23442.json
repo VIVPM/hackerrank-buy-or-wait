@@ -1,0 +1,43 @@
+{
+  "fact": {
+    "amount_semantics": "total_paid",
+    "confidence": 1.0,
+    "currency": "USD",
+    "document_type": "taxi_receipt",
+    "evidence_note": "The receipt shows a total fare of $33.50, which was settled in cash with $40.00 tendered and $6.50 change returned. The economic value of the transaction is the amount paid for the service: $33.50.",
+    "other_amounts": [
+      {
+        "label": "cash_tendered",
+        "value": 40.0
+      },
+      {
+        "label": "subtotal",
+        "value": 33.5
+      },
+      {
+        "label": "balance_due",
+        "value": 33.5
+      },
+      {
+        "label": "amount_due_by_date",
+        "value": 33.5
+      }
+    ],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 33.5
+  },
+  "key": "4920d298729b85db7706efdb2ce1371d25f23442",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_12",
+    "input_tokens": 933,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 225,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_7307",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 3072,
+    "confidence": 0.9,
+    "confirmed": true,
+    "currency": "USD",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer BrightPath Media confirms base salary of USD 3072 (payroll ref EMP-0058). Commission on open deals is pending approval and excluded from payout until marked as earned; amount not quantified.",
+    "operation": "confirm",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "2526f62c6deb3f8309817175fe6c13cf0e23ebd7",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 657,
+    "message_id": "message_58",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 203,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": "P1",
+    "thought": "P1 pays in full on 2019-11-15, meeting the deadline with no spending changes; P2 is not recommended. Choose P1.",
+    "tool": "finish"
+  },
+  "key": "322e5eb536757b04bd549c32feda82df1e1cc522",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_03",
+    "step": 7
+  }
+}

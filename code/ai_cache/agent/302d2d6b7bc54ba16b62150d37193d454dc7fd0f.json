@@ -1,0 +1,14 @@
+{
+  "fact": {
+    "evidence_id": null,
+    "plan_id": null,
+    "thought": "No evidence on file, so I can go straight to the 90-day cash forecast to check whether paying 1,574.40 today keeps the balance above the 1,800 minimum.",
+    "tool": "run_forecast"
+  },
+  "key": "302d2d6b7bc54ba16b62150d37193d454dc7fd0f",
+  "meta": {
+    "prompt": "brief",
+    "request_id": "request_21",
+    "step": 3
+  }
+}

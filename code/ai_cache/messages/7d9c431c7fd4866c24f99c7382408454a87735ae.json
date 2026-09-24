@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 32450,
+    "confidence": 0.7,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": "2024-08-29",
+    "new_date": null,
+    "notes_short": "RewardLane prize proceeds credited after withholding; claim FIN-0088 closed, no further scheduled payments unless a separate prize is confirmed.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "prize"
+  },
+  "key": "7d9c431c7fd4866c24f99c7382408454a87735ae",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 687,
+    "message_id": "message_88",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 498,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

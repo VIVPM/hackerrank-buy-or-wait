@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 1222.65,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "EUR",
+    "effective_date": null,
+    "new_date": null,
+    "notes_short": "Employer payroll states next salary reduced to EUR 1222.65 due to approved unpaid leave; visible on next payslip; ref EMP-0155",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "salary"
+  },
+  "key": "bcb4006db670046c3d4bc7f65502f829de944f55",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 648,
+    "message_id": "message_155",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 170,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 2340.0,
+    "confidence": 0.95,
+    "confirmed": false,
+    "currency": "USD",
+    "effective_date": "2024-12-15",
+    "new_date": null,
+    "notes_short": "Client approved invoice payment of USD 2340 via InvoiceFlow; settlement expected 2024-12-15; other invoices still awaiting approval. Case ref SER-0130.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "none",
+    "target": "invoice"
+  },
+  "key": "516036b11002d0b48f08b27576aceeea2a70302a",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 669,
+    "message_id": "message_130",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 167,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}

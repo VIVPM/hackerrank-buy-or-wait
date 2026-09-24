@@ -1,0 +1,26 @@
+{
+  "fact": {
+    "amount_semantics": "total_paid",
+    "confidence": 0.95,
+    "currency": "\u20b9",
+    "document_type": "order_summary",
+    "evidence_note": "The document shows a delivered grocery order with itemized charges and a total order bill of \u20b92854.00. No separate delivery fee or taxes are visible; the total is presented as the final amount.",
+    "other_amounts": [],
+    "payment_status": "paid",
+    "relevant_transaction_amount": 2854.0
+  },
+  "key": "329f8d4b6fc6d4b5b8eda52b6a7e8c897737c2bb",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "image_id": "image_04",
+    "input_tokens": 996,
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "output_tokens": 120,
+    "prompt_version": "2",
+    "provider": "huggingface-routed",
+    "related_event_id": "event_1700",
+    "retries": 0,
+    "schema_version": "1"
+  }
+}

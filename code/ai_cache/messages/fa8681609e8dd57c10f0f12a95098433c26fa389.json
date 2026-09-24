@@ -1,0 +1,28 @@
+{
+  "fact": {
+    "amount": 139700,
+    "confidence": 0.85,
+    "confirmed": true,
+    "currency": "INR",
+    "effective_date": "2025-10-26",
+    "new_date": null,
+    "notes_short": "Prize proceeds credited to account after withholding; no further payment unless a separate prize is confirmed. Account ref FIN-0075.",
+    "operation": "income_unconfirmed",
+    "percent_change": null,
+    "recurrence_effect": "stops",
+    "target": "prize"
+  },
+  "key": "fa8681609e8dd57c10f0f12a95098433c26fa389",
+  "meta": {
+    "cost_usd": "0",
+    "extractor_version": "1",
+    "input_tokens": 673,
+    "message_id": "message_75",
+    "model": "zai-org/GLM-5.3",
+    "output_tokens": 485,
+    "prompt_version": "5",
+    "provider": "huggingface-routed",
+    "retries": 0,
+    "schema_version": "2"
+  }
+}
